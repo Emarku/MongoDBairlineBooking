@@ -1,0 +1,10001 @@
+[{
+  "_id": {
+    "$oid": "61c3964162d023612907cede"
+  },
+  "fLength": 4733.725881571263,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T06:12:28Z"
+    },
+    "airport": 9067
+  },
+  "dep": {
+    "airport": 3365,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T04:40:26Z"
+    }
+  },
+  "plane": 70,
+  "id": 1,
+  "coPilot": 234,
+  "pilot": 214
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cedf"
+  },
+  "fLength": 2449.852654489824,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T22:47:59Z"
+    },
+    "airport": 7122
+  },
+  "dep": {
+    "airport": 3464,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T13:27:34Z"
+    }
+  },
+  "plane": 63,
+  "id": 2,
+  "coPilot": 231,
+  "pilot": 223
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cee0"
+  },
+  "fLength": 5415.888502224128,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T05:44:13Z"
+    },
+    "airport": 4621
+  },
+  "dep": {
+    "airport": 1105,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T09:47:52Z"
+    }
+  },
+  "plane": 119,
+  "id": 3,
+  "coPilot": 240,
+  "pilot": 216
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cee1"
+  },
+  "fLength": 3409.0312121055986,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T03:19:28Z"
+    },
+    "airport": 6624
+  },
+  "dep": {
+    "airport": 3658,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T13:12:52Z"
+    }
+  },
+  "plane": 22,
+  "id": 4,
+  "coPilot": 237,
+  "pilot": 218
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cee2"
+  },
+  "fLength": 2037.2462864331033,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T17:25:36Z"
+    },
+    "airport": 4994
+  },
+  "dep": {
+    "airport": 1678,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T12:40:46Z"
+    }
+  },
+  "plane": 114,
+  "id": 5,
+  "coPilot": 237,
+  "pilot": 213
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cee3"
+  },
+  "fLength": 4742.691636156266,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T20:52:57Z"
+    },
+    "airport": 8010
+  },
+  "dep": {
+    "airport": 1846,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T19:30:41Z"
+    }
+  },
+  "plane": 105,
+  "id": 6,
+  "coPilot": 227,
+  "pilot": 221
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cee4"
+  },
+  "fLength": 3246.3804880026237,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T13:15:24Z"
+    },
+    "airport": 6083
+  },
+  "dep": {
+    "airport": 3786,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T13:57:46Z"
+    }
+  },
+  "plane": 22,
+  "id": 7,
+  "coPilot": 248,
+  "pilot": 216
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cee5"
+  },
+  "fLength": 3663.5253863943226,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T06:27:51Z"
+    },
+    "airport": 6255
+  },
+  "dep": {
+    "airport": 160,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T08:46:10Z"
+    }
+  },
+  "plane": 74,
+  "id": 8,
+  "coPilot": 249,
+  "pilot": 207
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cee6"
+  },
+  "fLength": 4959.542196708026,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T20:27:39Z"
+    },
+    "airport": 5629
+  },
+  "dep": {
+    "airport": 1104,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T21:32:16Z"
+    }
+  },
+  "plane": 149,
+  "id": 9,
+  "coPilot": 226,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cee7"
+  },
+  "fLength": 1215.3607361782092,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T04:35:38Z"
+    },
+    "airport": 8480
+  },
+  "dep": {
+    "airport": 13,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T05:41:17Z"
+    }
+  },
+  "plane": 139,
+  "id": 10,
+  "coPilot": 236,
+  "pilot": 212
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cee8"
+  },
+  "fLength": 2105.807025495794,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T14:31:06Z"
+    },
+    "airport": 6142
+  },
+  "dep": {
+    "airport": 181,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T01:41:53Z"
+    }
+  },
+  "plane": 143,
+  "id": 11,
+  "coPilot": 245,
+  "pilot": 224
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cee9"
+  },
+  "fLength": 3965.2313863373547,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T21:26:16Z"
+    },
+    "airport": 5526
+  },
+  "dep": {
+    "airport": 3861,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T23:49:30Z"
+    }
+  },
+  "plane": 11,
+  "id": 12,
+  "coPilot": 244,
+  "pilot": 206
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907ceea"
+  },
+  "fLength": 2747.383183091853,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T12:54:31Z"
+    },
+    "airport": 7938
+  },
+  "dep": {
+    "airport": 897,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T23:21:44Z"
+    }
+  },
+  "plane": 69,
+  "id": 13,
+  "coPilot": 232,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907ceeb"
+  },
+  "fLength": 5311.758381870708,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T11:13:07Z"
+    },
+    "airport": 5288
+  },
+  "dep": {
+    "airport": 3788,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T05:26:50Z"
+    }
+  },
+  "plane": 23,
+  "id": 14,
+  "coPilot": 242,
+  "pilot": 217
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907ceec"
+  },
+  "fLength": 4551.334520068218,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T16:49:42Z"
+    },
+    "airport": 8273
+  },
+  "dep": {
+    "airport": 1970,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T00:56:27Z"
+    }
+  },
+  "plane": 40,
+  "id": 15,
+  "coPilot": 244,
+  "pilot": 225
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907ceed"
+  },
+  "fLength": 2190.456606688408,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T09:35:23Z"
+    },
+    "airport": 7735
+  },
+  "dep": {
+    "airport": 464,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T16:55:50Z"
+    }
+  },
+  "plane": 116,
+  "id": 16,
+  "coPilot": 232,
+  "pilot": 204
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907ceee"
+  },
+  "fLength": 1261.3925770325964,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T02:05:15Z"
+    },
+    "airport": 6171
+  },
+  "dep": {
+    "airport": 3707,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T00:41:34Z"
+    }
+  },
+  "plane": 83,
+  "id": 17,
+  "coPilot": 247,
+  "pilot": 209
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907ceef"
+  },
+  "fLength": 1639.622758706472,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T13:50:40Z"
+    },
+    "airport": 7719
+  },
+  "dep": {
+    "airport": 3874,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T20:36:15Z"
+    }
+  },
+  "plane": 55,
+  "id": 18,
+  "coPilot": 227,
+  "pilot": 225
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cef0"
+  },
+  "fLength": 4130.44960153435,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T14:49:53Z"
+    },
+    "airport": 8353
+  },
+  "dep": {
+    "airport": 942,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T12:04:52Z"
+    }
+  },
+  "plane": 111,
+  "id": 19,
+  "coPilot": 246,
+  "pilot": 201
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cef1"
+  },
+  "fLength": 2513.8423858022043,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T16:07:26Z"
+    },
+    "airport": 8369
+  },
+  "dep": {
+    "airport": 4331,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T14:32:13Z"
+    }
+  },
+  "plane": 57,
+  "id": 20,
+  "coPilot": 246,
+  "pilot": 215
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cef2"
+  },
+  "fLength": 4343.124282300113,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T03:02:43Z"
+    },
+    "airport": 5694
+  },
+  "dep": {
+    "airport": 932,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T16:01:00Z"
+    }
+  },
+  "plane": 15,
+  "id": 21,
+  "coPilot": 240,
+  "pilot": 202
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cef3"
+  },
+  "fLength": 2761.452841599751,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T09:13:04Z"
+    },
+    "airport": 8403
+  },
+  "dep": {
+    "airport": 2538,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T23:47:13Z"
+    }
+  },
+  "plane": 143,
+  "id": 22,
+  "coPilot": 237,
+  "pilot": 225
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cef4"
+  },
+  "fLength": 4583.69271665846,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T23:39:32Z"
+    },
+    "airport": 5358
+  },
+  "dep": {
+    "airport": 3098,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T07:55:25Z"
+    }
+  },
+  "plane": 111,
+  "id": 23,
+  "coPilot": 231,
+  "pilot": 223
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cef5"
+  },
+  "fLength": 1158.6323380928734,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T08:05:22Z"
+    },
+    "airport": 4818
+  },
+  "dep": {
+    "airport": 173,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T13:49:38Z"
+    }
+  },
+  "plane": 17,
+  "id": 24,
+  "coPilot": 234,
+  "pilot": 202
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cef6"
+  },
+  "fLength": 1852.0066509103394,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T11:07:40Z"
+    },
+    "airport": 7611
+  },
+  "dep": {
+    "airport": 3257,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T08:28:33Z"
+    }
+  },
+  "plane": 108,
+  "id": 25,
+  "coPilot": 234,
+  "pilot": 209
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cef7"
+  },
+  "fLength": 3525.38179854942,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T00:50:52Z"
+    },
+    "airport": 5737
+  },
+  "dep": {
+    "airport": 1926,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T04:10:35Z"
+    }
+  },
+  "plane": 75,
+  "id": 26,
+  "coPilot": 247,
+  "pilot": 209
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cef8"
+  },
+  "fLength": 3117.8233295127256,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T17:35:56Z"
+    },
+    "airport": 8847
+  },
+  "dep": {
+    "airport": 563,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T03:21:41Z"
+    }
+  },
+  "plane": 11,
+  "id": 27,
+  "coPilot": 239,
+  "pilot": 209
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cef9"
+  },
+  "fLength": 1921.151831942057,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T10:37:05Z"
+    },
+    "airport": 8370
+  },
+  "dep": {
+    "airport": 1537,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T21:13:50Z"
+    }
+  },
+  "plane": 104,
+  "id": 28,
+  "coPilot": 250,
+  "pilot": 222
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cefa"
+  },
+  "fLength": 2432.6811677758046,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T23:43:14Z"
+    },
+    "airport": 5702
+  },
+  "dep": {
+    "airport": 2694,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T18:15:25Z"
+    }
+  },
+  "plane": 148,
+  "id": 29,
+  "coPilot": 246,
+  "pilot": 221
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cefb"
+  },
+  "fLength": 1747.7943884056263,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T12:24:28Z"
+    },
+    "airport": 8246
+  },
+  "dep": {
+    "airport": 2025,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T00:54:47Z"
+    }
+  },
+  "plane": 77,
+  "id": 30,
+  "coPilot": 238,
+  "pilot": 202
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cefc"
+  },
+  "fLength": 2892.0096902571363,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T17:16:38Z"
+    },
+    "airport": 5923
+  },
+  "dep": {
+    "airport": 4230,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T16:08:54Z"
+    }
+  },
+  "plane": 138,
+  "id": 31,
+  "coPilot": 230,
+  "pilot": 218
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cefd"
+  },
+  "fLength": 1758.3877256900812,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T21:39:30Z"
+    },
+    "airport": 7450
+  },
+  "dep": {
+    "airport": 2048,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T16:38:23Z"
+    }
+  },
+  "plane": 69,
+  "id": 32,
+  "coPilot": 247,
+  "pilot": 222
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cefe"
+  },
+  "fLength": 3896.1458662702407,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T20:52:30Z"
+    },
+    "airport": 8408
+  },
+  "dep": {
+    "airport": 2793,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T03:08:43Z"
+    }
+  },
+  "plane": 43,
+  "id": 33,
+  "coPilot": 240,
+  "pilot": 209
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907ceff"
+  },
+  "fLength": 3861.915750446974,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T13:40:42Z"
+    },
+    "airport": 6298
+  },
+  "dep": {
+    "airport": 1801,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T20:34:21Z"
+    }
+  },
+  "plane": 144,
+  "id": 34,
+  "coPilot": 226,
+  "pilot": 208
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf00"
+  },
+  "fLength": 3832.470161554524,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T06:10:57Z"
+    },
+    "airport": 8011
+  },
+  "dep": {
+    "airport": 3832,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T02:21:35Z"
+    }
+  },
+  "plane": 65,
+  "id": 35,
+  "coPilot": 246,
+  "pilot": 215
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf01"
+  },
+  "fLength": 4568.157451826368,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T10:44:18Z"
+    },
+    "airport": 8507
+  },
+  "dep": {
+    "airport": 1108,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T03:57:50Z"
+    }
+  },
+  "plane": 52,
+  "id": 36,
+  "coPilot": 236,
+  "pilot": 215
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf02"
+  },
+  "fLength": 3520.465852308853,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T17:33:42Z"
+    },
+    "airport": 6918
+  },
+  "dep": {
+    "airport": 810,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T08:55:50Z"
+    }
+  },
+  "plane": 35,
+  "id": 37,
+  "coPilot": 247,
+  "pilot": 211
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf03"
+  },
+  "fLength": 5364.43590923422,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T16:18:32Z"
+    },
+    "airport": 8747
+  },
+  "dep": {
+    "airport": 4522,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T12:59:34Z"
+    }
+  },
+  "plane": 141,
+  "id": 38,
+  "coPilot": 249,
+  "pilot": 216
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf04"
+  },
+  "fLength": 2409.436231457945,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T15:21:56Z"
+    },
+    "airport": 6104
+  },
+  "dep": {
+    "airport": 4111,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T22:46:33Z"
+    }
+  },
+  "plane": 90,
+  "id": 39,
+  "coPilot": 236,
+  "pilot": 204
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf05"
+  },
+  "fLength": 2712.520366943196,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T18:51:39Z"
+    },
+    "airport": 8248
+  },
+  "dep": {
+    "airport": 1421,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T21:00:42Z"
+    }
+  },
+  "plane": 46,
+  "id": 40,
+  "coPilot": 227,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf06"
+  },
+  "fLength": 4951.507626239874,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T10:39:55Z"
+    },
+    "airport": 7455
+  },
+  "dep": {
+    "airport": 2594,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T10:30:25Z"
+    }
+  },
+  "plane": 14,
+  "id": 41,
+  "coPilot": 249,
+  "pilot": 214
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf07"
+  },
+  "fLength": 4049.0475870927585,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T03:27:16Z"
+    },
+    "airport": 5951
+  },
+  "dep": {
+    "airport": 3690,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T09:21:49Z"
+    }
+  },
+  "plane": 32,
+  "id": 42,
+  "coPilot": 237,
+  "pilot": 207
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf08"
+  },
+  "fLength": 4994.999052216759,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T12:24:06Z"
+    },
+    "airport": 5202
+  },
+  "dep": {
+    "airport": 4139,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T20:47:51Z"
+    }
+  },
+  "plane": 41,
+  "id": 43,
+  "coPilot": 230,
+  "pilot": 209
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf09"
+  },
+  "fLength": 1257.5113875569405,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T13:16:34Z"
+    },
+    "airport": 8445
+  },
+  "dep": {
+    "airport": 3883,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T14:34:18Z"
+    }
+  },
+  "plane": 147,
+  "id": 44,
+  "coPilot": 235,
+  "pilot": 222
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf0a"
+  },
+  "fLength": 5337.8614132613675,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T06:55:17Z"
+    },
+    "airport": 5842
+  },
+  "dep": {
+    "airport": 23,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T23:28:31Z"
+    }
+  },
+  "plane": 28,
+  "id": 45,
+  "coPilot": 236,
+  "pilot": 206
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf0b"
+  },
+  "fLength": 5137.60852426875,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T05:52:21Z"
+    },
+    "airport": 7892
+  },
+  "dep": {
+    "airport": 4356,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T22:45:22Z"
+    }
+  },
+  "plane": 9,
+  "id": 46,
+  "coPilot": 238,
+  "pilot": 210
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf0c"
+  },
+  "fLength": 1268.1330448721037,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T22:48:10Z"
+    },
+    "airport": 6309
+  },
+  "dep": {
+    "airport": 4317,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T12:48:32Z"
+    }
+  },
+  "plane": 77,
+  "id": 47,
+  "coPilot": 247,
+  "pilot": 222
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf0d"
+  },
+  "fLength": 1795.4316177720093,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T09:40:27Z"
+    },
+    "airport": 5521
+  },
+  "dep": {
+    "airport": 79,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T03:21:27Z"
+    }
+  },
+  "plane": 67,
+  "id": 48,
+  "coPilot": 237,
+  "pilot": 203
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf0e"
+  },
+  "fLength": 3666.622145872319,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T04:42:27Z"
+    },
+    "airport": 5514
+  },
+  "dep": {
+    "airport": 4482,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T13:43:27Z"
+    }
+  },
+  "plane": 90,
+  "id": 49,
+  "coPilot": 244,
+  "pilot": 211
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf0f"
+  },
+  "fLength": 4141.689698773713,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T15:43:03Z"
+    },
+    "airport": 5206
+  },
+  "dep": {
+    "airport": 3259,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T12:55:20Z"
+    }
+  },
+  "plane": 38,
+  "id": 50,
+  "coPilot": 242,
+  "pilot": 206
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf10"
+  },
+  "fLength": 3018.5473265774235,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T04:43:43Z"
+    },
+    "airport": 8214
+  },
+  "dep": {
+    "airport": 488,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T13:36:26Z"
+    }
+  },
+  "plane": 137,
+  "id": 51,
+  "coPilot": 246,
+  "pilot": 214
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf11"
+  },
+  "fLength": 3010.347048998207,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T02:07:09Z"
+    },
+    "airport": 7173
+  },
+  "dep": {
+    "airport": 1946,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T08:34:20Z"
+    }
+  },
+  "plane": 130,
+  "id": 52,
+  "coPilot": 236,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf12"
+  },
+  "fLength": 5095.739321350298,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T05:07:00Z"
+    },
+    "airport": 8701
+  },
+  "dep": {
+    "airport": 2490,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T19:48:22Z"
+    }
+  },
+  "plane": 145,
+  "id": 53,
+  "coPilot": 230,
+  "pilot": 224
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf13"
+  },
+  "fLength": 4009.2780189152445,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T07:40:34Z"
+    },
+    "airport": 6724
+  },
+  "dep": {
+    "airport": 4171,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T08:46:59Z"
+    }
+  },
+  "plane": 102,
+  "id": 54,
+  "coPilot": 237,
+  "pilot": 223
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf14"
+  },
+  "fLength": 1509.708837627788,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T10:39:57Z"
+    },
+    "airport": 7428
+  },
+  "dep": {
+    "airport": 3478,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T04:24:55Z"
+    }
+  },
+  "plane": 40,
+  "id": 55,
+  "coPilot": 234,
+  "pilot": 203
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf15"
+  },
+  "fLength": 1860.346631543311,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T06:12:05Z"
+    },
+    "airport": 7555
+  },
+  "dep": {
+    "airport": 231,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T09:21:46Z"
+    }
+  },
+  "plane": 115,
+  "id": 56,
+  "coPilot": 231,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf16"
+  },
+  "fLength": 1904.7132661374874,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T07:35:16Z"
+    },
+    "airport": 8600
+  },
+  "dep": {
+    "airport": 695,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T09:28:36Z"
+    }
+  },
+  "plane": 16,
+  "id": 57,
+  "coPilot": 248,
+  "pilot": 209
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf17"
+  },
+  "fLength": 5403.840880099046,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T10:52:52Z"
+    },
+    "airport": 8290
+  },
+  "dep": {
+    "airport": 3972,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T13:48:32Z"
+    }
+  },
+  "plane": 125,
+  "id": 58,
+  "coPilot": 233,
+  "pilot": 216
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf18"
+  },
+  "fLength": 1625.7489348398904,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T14:38:38Z"
+    },
+    "airport": 5137
+  },
+  "dep": {
+    "airport": 732,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T09:06:30Z"
+    }
+  },
+  "plane": 138,
+  "id": 59,
+  "coPilot": 233,
+  "pilot": 206
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf19"
+  },
+  "fLength": 4275.388527927324,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T05:15:43Z"
+    },
+    "airport": 6725
+  },
+  "dep": {
+    "airport": 1137,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T00:05:57Z"
+    }
+  },
+  "plane": 133,
+  "id": 60,
+  "coPilot": 240,
+  "pilot": 207
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf1a"
+  },
+  "fLength": 4970.130190686114,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T14:31:05Z"
+    },
+    "airport": 6709
+  },
+  "dep": {
+    "airport": 726,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T08:57:28Z"
+    }
+  },
+  "plane": 142,
+  "id": 61,
+  "coPilot": 230,
+  "pilot": 222
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf1b"
+  },
+  "fLength": 4687.128496315723,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T07:33:35Z"
+    },
+    "airport": 6698
+  },
+  "dep": {
+    "airport": 1081,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T03:57:52Z"
+    }
+  },
+  "plane": 87,
+  "id": 62,
+  "coPilot": 243,
+  "pilot": 218
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf1c"
+  },
+  "fLength": 3767.9273840217097,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T04:34:46Z"
+    },
+    "airport": 5314
+  },
+  "dep": {
+    "airport": 3570,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T12:51:14Z"
+    }
+  },
+  "plane": 130,
+  "id": 63,
+  "coPilot": 234,
+  "pilot": 217
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf1d"
+  },
+  "fLength": 4306.972504579642,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T10:35:52Z"
+    },
+    "airport": 6427
+  },
+  "dep": {
+    "airport": 3530,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T15:02:05Z"
+    }
+  },
+  "plane": 33,
+  "id": 64,
+  "coPilot": 227,
+  "pilot": 208
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf1e"
+  },
+  "fLength": 2610.2212906426125,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T20:58:27Z"
+    },
+    "airport": 8206
+  },
+  "dep": {
+    "airport": 3897,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T19:48:59Z"
+    }
+  },
+  "plane": 106,
+  "id": 65,
+  "coPilot": 226,
+  "pilot": 212
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf1f"
+  },
+  "fLength": 1324.2625673926243,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T02:44:51Z"
+    },
+    "airport": 6833
+  },
+  "dep": {
+    "airport": 1918,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T01:59:39Z"
+    }
+  },
+  "plane": 14,
+  "id": 66,
+  "coPilot": 226,
+  "pilot": 203
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf20"
+  },
+  "fLength": 1175.2519576822897,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T12:01:27Z"
+    },
+    "airport": 8607
+  },
+  "dep": {
+    "airport": 1778,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T02:04:28Z"
+    }
+  },
+  "plane": 64,
+  "id": 67,
+  "coPilot": 243,
+  "pilot": 206
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf21"
+  },
+  "fLength": 5237.130503700852,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T18:42:11Z"
+    },
+    "airport": 5728
+  },
+  "dep": {
+    "airport": 2759,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T01:09:37Z"
+    }
+  },
+  "plane": 57,
+  "id": 68,
+  "coPilot": 244,
+  "pilot": 224
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf22"
+  },
+  "fLength": 2358.166318830841,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T12:07:47Z"
+    },
+    "airport": 5648
+  },
+  "dep": {
+    "airport": 4598,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T00:02:57Z"
+    }
+  },
+  "plane": 126,
+  "id": 69,
+  "coPilot": 234,
+  "pilot": 209
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf23"
+  },
+  "fLength": 4307.607604963747,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T00:35:50Z"
+    },
+    "airport": 6923
+  },
+  "dep": {
+    "airport": 435,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T18:03:47Z"
+    }
+  },
+  "plane": 68,
+  "id": 70,
+  "coPilot": 242,
+  "pilot": 223
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf24"
+  },
+  "fLength": 2898.703157880441,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T17:23:09Z"
+    },
+    "airport": 6128
+  },
+  "dep": {
+    "airport": 1960,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T12:09:32Z"
+    }
+  },
+  "plane": 64,
+  "id": 71,
+  "coPilot": 247,
+  "pilot": 203
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf25"
+  },
+  "fLength": 1036.874676002687,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T12:20:56Z"
+    },
+    "airport": 5845
+  },
+  "dep": {
+    "airport": 2506,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T22:17:02Z"
+    }
+  },
+  "plane": 135,
+  "id": 72,
+  "coPilot": 244,
+  "pilot": 217
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf26"
+  },
+  "fLength": 1485.4982320169802,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T17:18:48Z"
+    },
+    "airport": 8243
+  },
+  "dep": {
+    "airport": 1322,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T14:24:21Z"
+    }
+  },
+  "plane": 31,
+  "id": 73,
+  "coPilot": 250,
+  "pilot": 221
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf27"
+  },
+  "fLength": 1142.257106017638,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T21:56:32Z"
+    },
+    "airport": 5736
+  },
+  "dep": {
+    "airport": 1895,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T08:41:19Z"
+    }
+  },
+  "plane": 34,
+  "id": 74,
+  "coPilot": 241,
+  "pilot": 213
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf28"
+  },
+  "fLength": 3580.587707038293,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T02:47:18Z"
+    },
+    "airport": 5119
+  },
+  "dep": {
+    "airport": 1293,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T07:13:03Z"
+    }
+  },
+  "plane": 67,
+  "id": 75,
+  "coPilot": 244,
+  "pilot": 212
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf29"
+  },
+  "fLength": 5103.531633684048,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T07:25:57Z"
+    },
+    "airport": 8169
+  },
+  "dep": {
+    "airport": 4459,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T12:06:44Z"
+    }
+  },
+  "plane": 147,
+  "id": 76,
+  "coPilot": 232,
+  "pilot": 215
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf2a"
+  },
+  "fLength": 4615.355054510242,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T04:35:14Z"
+    },
+    "airport": 8775
+  },
+  "dep": {
+    "airport": 298,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T03:36:51Z"
+    }
+  },
+  "plane": 99,
+  "id": 77,
+  "coPilot": 236,
+  "pilot": 219
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf2b"
+  },
+  "fLength": 4761.83681044375,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T15:00:24Z"
+    },
+    "airport": 8730
+  },
+  "dep": {
+    "airport": 1756,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T01:12:32Z"
+    }
+  },
+  "plane": 84,
+  "id": 78,
+  "coPilot": 250,
+  "pilot": 202
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf2c"
+  },
+  "fLength": 1417.7664111923143,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T03:21:34Z"
+    },
+    "airport": 5653
+  },
+  "dep": {
+    "airport": 2351,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T09:55:09Z"
+    }
+  },
+  "plane": 132,
+  "id": 79,
+  "coPilot": 234,
+  "pilot": 218
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf2d"
+  },
+  "fLength": 3476.700969399451,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T00:31:46Z"
+    },
+    "airport": 8265
+  },
+  "dep": {
+    "airport": 2,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T11:15:51Z"
+    }
+  },
+  "plane": 76,
+  "id": 80,
+  "coPilot": 229,
+  "pilot": 212
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf2e"
+  },
+  "fLength": 1814.0879606006272,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T03:35:38Z"
+    },
+    "airport": 8061
+  },
+  "dep": {
+    "airport": 495,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T14:17:02Z"
+    }
+  },
+  "plane": 5,
+  "id": 81,
+  "coPilot": 233,
+  "pilot": 207
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf2f"
+  },
+  "fLength": 3760.3018653997533,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T03:27:46Z"
+    },
+    "airport": 5755
+  },
+  "dep": {
+    "airport": 1994,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T04:12:21Z"
+    }
+  },
+  "plane": 62,
+  "id": 82,
+  "coPilot": 248,
+  "pilot": 219
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf30"
+  },
+  "fLength": 5317.39360167621,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T18:53:10Z"
+    },
+    "airport": 4704
+  },
+  "dep": {
+    "airport": 1324,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T14:46:02Z"
+    }
+  },
+  "plane": 71,
+  "id": 83,
+  "coPilot": 235,
+  "pilot": 221
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf31"
+  },
+  "fLength": 1671.5230197389212,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T11:14:20Z"
+    },
+    "airport": 6287
+  },
+  "dep": {
+    "airport": 2480,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T23:27:28Z"
+    }
+  },
+  "plane": 104,
+  "id": 84,
+  "coPilot": 229,
+  "pilot": 208
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf32"
+  },
+  "fLength": 2868.8804758802876,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T22:49:35Z"
+    },
+    "airport": 5982
+  },
+  "dep": {
+    "airport": 2805,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T00:35:35Z"
+    }
+  },
+  "plane": 86,
+  "id": 85,
+  "coPilot": 241,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf33"
+  },
+  "fLength": 2432.600443710123,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T21:43:24Z"
+    },
+    "airport": 7896
+  },
+  "dep": {
+    "airport": 3461,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T16:42:20Z"
+    }
+  },
+  "plane": 146,
+  "id": 86,
+  "coPilot": 226,
+  "pilot": 208
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf34"
+  },
+  "fLength": 5147.4308707485725,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T08:28:08Z"
+    },
+    "airport": 9057
+  },
+  "dep": {
+    "airport": 4550,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T15:06:44Z"
+    }
+  },
+  "plane": 43,
+  "id": 87,
+  "coPilot": 247,
+  "pilot": 222
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf35"
+  },
+  "fLength": 1250.9570102607072,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T09:02:10Z"
+    },
+    "airport": 5507
+  },
+  "dep": {
+    "airport": 1462,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T23:52:36Z"
+    }
+  },
+  "plane": 30,
+  "id": 88,
+  "coPilot": 226,
+  "pilot": 221
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf36"
+  },
+  "fLength": 2663.878799760845,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T19:30:15Z"
+    },
+    "airport": 7766
+  },
+  "dep": {
+    "airport": 869,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T09:03:20Z"
+    }
+  },
+  "plane": 62,
+  "id": 89,
+  "coPilot": 246,
+  "pilot": 214
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf37"
+  },
+  "fLength": 4610.322398487198,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T13:24:20Z"
+    },
+    "airport": 8643
+  },
+  "dep": {
+    "airport": 740,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T06:39:03Z"
+    }
+  },
+  "plane": 26,
+  "id": 90,
+  "coPilot": 245,
+  "pilot": 212
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf38"
+  },
+  "fLength": 2661.634121143574,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T14:06:46Z"
+    },
+    "airport": 4944
+  },
+  "dep": {
+    "airport": 4572,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T14:03:18Z"
+    }
+  },
+  "plane": 64,
+  "id": 91,
+  "coPilot": 233,
+  "pilot": 210
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf39"
+  },
+  "fLength": 2640.1383967245024,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T12:37:15Z"
+    },
+    "airport": 7150
+  },
+  "dep": {
+    "airport": 2545,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T10:59:00Z"
+    }
+  },
+  "plane": 144,
+  "id": 92,
+  "coPilot": 228,
+  "pilot": 203
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf3a"
+  },
+  "fLength": 2115.719020244485,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T21:37:30Z"
+    },
+    "airport": 8640
+  },
+  "dep": {
+    "airport": 93,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T19:26:51Z"
+    }
+  },
+  "plane": 3,
+  "id": 93,
+  "coPilot": 231,
+  "pilot": 223
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf3b"
+  },
+  "fLength": 2815.7573508167134,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T18:19:48Z"
+    },
+    "airport": 5924
+  },
+  "dep": {
+    "airport": 3209,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T05:39:38Z"
+    }
+  },
+  "plane": 110,
+  "id": 94,
+  "coPilot": 242,
+  "pilot": 211
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf3c"
+  },
+  "fLength": 1740.8502618140078,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T00:50:23Z"
+    },
+    "airport": 8165
+  },
+  "dep": {
+    "airport": 1313,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T14:11:46Z"
+    }
+  },
+  "plane": 13,
+  "id": 95,
+  "coPilot": 247,
+  "pilot": 217
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf3d"
+  },
+  "fLength": 2047.9089555230373,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T22:28:27Z"
+    },
+    "airport": 6869
+  },
+  "dep": {
+    "airport": 2130,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T02:59:10Z"
+    }
+  },
+  "plane": 65,
+  "id": 96,
+  "coPilot": 235,
+  "pilot": 206
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf3e"
+  },
+  "fLength": 3267.939434837472,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T23:01:46Z"
+    },
+    "airport": 9177
+  },
+  "dep": {
+    "airport": 2212,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T18:58:40Z"
+    }
+  },
+  "plane": 61,
+  "id": 97,
+  "coPilot": 237,
+  "pilot": 204
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf3f"
+  },
+  "fLength": 2196.3369861790716,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T15:48:58Z"
+    },
+    "airport": 5910
+  },
+  "dep": {
+    "airport": 1930,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T21:23:39Z"
+    }
+  },
+  "plane": 134,
+  "id": 98,
+  "coPilot": 249,
+  "pilot": 204
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf40"
+  },
+  "fLength": 5305.745465043812,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T09:00:48Z"
+    },
+    "airport": 8956
+  },
+  "dep": {
+    "airport": 230,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T13:57:44Z"
+    }
+  },
+  "plane": 12,
+  "id": 99,
+  "coPilot": 249,
+  "pilot": 207
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf41"
+  },
+  "fLength": 4677.585761208611,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T12:46:06Z"
+    },
+    "airport": 7666
+  },
+  "dep": {
+    "airport": 2089,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T08:03:56Z"
+    }
+  },
+  "plane": 1,
+  "id": 100,
+  "coPilot": 232,
+  "pilot": 219
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf42"
+  },
+  "fLength": 4109.965602303117,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T11:10:49Z"
+    },
+    "airport": 6334
+  },
+  "dep": {
+    "airport": 2151,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T00:59:37Z"
+    }
+  },
+  "plane": 39,
+  "id": 101,
+  "coPilot": 237,
+  "pilot": 211
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf43"
+  },
+  "fLength": 3324.2680487225857,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T00:02:51Z"
+    },
+    "airport": 7969
+  },
+  "dep": {
+    "airport": 4230,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T05:44:04Z"
+    }
+  },
+  "plane": 119,
+  "id": 102,
+  "coPilot": 237,
+  "pilot": 211
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf44"
+  },
+  "fLength": 3409.501894973166,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T09:00:10Z"
+    },
+    "airport": 9205
+  },
+  "dep": {
+    "airport": 4388,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T12:36:48Z"
+    }
+  },
+  "plane": 59,
+  "id": 103,
+  "coPilot": 228,
+  "pilot": 220
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf45"
+  },
+  "fLength": 2660.4633349933847,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T16:49:17Z"
+    },
+    "airport": 5891
+  },
+  "dep": {
+    "airport": 2977,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T12:24:20Z"
+    }
+  },
+  "plane": 135,
+  "id": 104,
+  "coPilot": 241,
+  "pilot": 224
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf46"
+  },
+  "fLength": 4682.151995365239,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T11:07:23Z"
+    },
+    "airport": 7021
+  },
+  "dep": {
+    "airport": 4131,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T23:43:22Z"
+    }
+  },
+  "plane": 66,
+  "id": 105,
+  "coPilot": 229,
+  "pilot": 206
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf47"
+  },
+  "fLength": 3257.0195916743096,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T18:57:55Z"
+    },
+    "airport": 8679
+  },
+  "dep": {
+    "airport": 3445,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T15:17:01Z"
+    }
+  },
+  "plane": 94,
+  "id": 106,
+  "coPilot": 226,
+  "pilot": 218
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf48"
+  },
+  "fLength": 2667.186933249406,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T01:09:22Z"
+    },
+    "airport": 8067
+  },
+  "dep": {
+    "airport": 4599,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T08:06:56Z"
+    }
+  },
+  "plane": 32,
+  "id": 107,
+  "coPilot": 235,
+  "pilot": 219
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf49"
+  },
+  "fLength": 1178.118783092432,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T00:57:55Z"
+    },
+    "airport": 5507
+  },
+  "dep": {
+    "airport": 1151,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T00:08:23Z"
+    }
+  },
+  "plane": 85,
+  "id": 108,
+  "coPilot": 232,
+  "pilot": 222
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf4a"
+  },
+  "fLength": 3114.74254471091,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T07:23:42Z"
+    },
+    "airport": 6782
+  },
+  "dep": {
+    "airport": 4301,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T20:38:59Z"
+    }
+  },
+  "plane": 134,
+  "id": 109,
+  "coPilot": 226,
+  "pilot": 207
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf4b"
+  },
+  "fLength": 1602.0370430522876,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T03:10:51Z"
+    },
+    "airport": 6267
+  },
+  "dep": {
+    "airport": 1962,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T13:48:39Z"
+    }
+  },
+  "plane": 59,
+  "id": 110,
+  "coPilot": 229,
+  "pilot": 210
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf4c"
+  },
+  "fLength": 2052.532113598431,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T22:58:23Z"
+    },
+    "airport": 5374
+  },
+  "dep": {
+    "airport": 809,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T19:47:36Z"
+    }
+  },
+  "plane": 111,
+  "id": 111,
+  "coPilot": 237,
+  "pilot": 208
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf4d"
+  },
+  "fLength": 3718.481326315235,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T04:39:53Z"
+    },
+    "airport": 4625
+  },
+  "dep": {
+    "airport": 716,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T18:47:32Z"
+    }
+  },
+  "plane": 139,
+  "id": 112,
+  "coPilot": 226,
+  "pilot": 214
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf4e"
+  },
+  "fLength": 4884.014711660939,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T16:22:56Z"
+    },
+    "airport": 7622
+  },
+  "dep": {
+    "airport": 3779,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T22:21:44Z"
+    }
+  },
+  "plane": 16,
+  "id": 113,
+  "coPilot": 240,
+  "pilot": 208
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf4f"
+  },
+  "fLength": 1000.1574814496455,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T03:02:27Z"
+    },
+    "airport": 9031
+  },
+  "dep": {
+    "airport": 940,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T13:26:43Z"
+    }
+  },
+  "plane": 76,
+  "id": 114,
+  "coPilot": 240,
+  "pilot": 215
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf50"
+  },
+  "fLength": 4892.864672599066,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T22:08:30Z"
+    },
+    "airport": 6652
+  },
+  "dep": {
+    "airport": 809,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T01:23:56Z"
+    }
+  },
+  "plane": 110,
+  "id": 115,
+  "coPilot": 227,
+  "pilot": 220
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf51"
+  },
+  "fLength": 2305.5660177282716,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T04:26:05Z"
+    },
+    "airport": 8429
+  },
+  "dep": {
+    "airport": 3093,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T23:37:52Z"
+    }
+  },
+  "plane": 120,
+  "id": 116,
+  "coPilot": 247,
+  "pilot": 202
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf52"
+  },
+  "fLength": 5231.752793377879,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T21:00:40Z"
+    },
+    "airport": 6046
+  },
+  "dep": {
+    "airport": 1913,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T02:52:42Z"
+    }
+  },
+  "plane": 102,
+  "id": 117,
+  "coPilot": 236,
+  "pilot": 211
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf53"
+  },
+  "fLength": 5300.490068751139,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T10:33:15Z"
+    },
+    "airport": 5453
+  },
+  "dep": {
+    "airport": 1556,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T08:09:43Z"
+    }
+  },
+  "plane": 50,
+  "id": 118,
+  "coPilot": 243,
+  "pilot": 218
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf54"
+  },
+  "fLength": 5457.457827434137,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T14:46:13Z"
+    },
+    "airport": 6447
+  },
+  "dep": {
+    "airport": 778,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T06:28:03Z"
+    }
+  },
+  "plane": 50,
+  "id": 119,
+  "coPilot": 235,
+  "pilot": 211
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf55"
+  },
+  "fLength": 4128.221514562505,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T14:10:01Z"
+    },
+    "airport": 8619
+  },
+  "dep": {
+    "airport": 4271,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T02:10:50Z"
+    }
+  },
+  "plane": 35,
+  "id": 120,
+  "coPilot": 234,
+  "pilot": 225
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf56"
+  },
+  "fLength": 4137.255495317024,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T11:48:28Z"
+    },
+    "airport": 9148
+  },
+  "dep": {
+    "airport": 4194,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T09:45:11Z"
+    }
+  },
+  "plane": 119,
+  "id": 121,
+  "coPilot": 247,
+  "pilot": 224
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf57"
+  },
+  "fLength": 3350.0641869716173,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T05:19:52Z"
+    },
+    "airport": 7217
+  },
+  "dep": {
+    "airport": 1768,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T08:26:22Z"
+    }
+  },
+  "plane": 106,
+  "id": 122,
+  "coPilot": 228,
+  "pilot": 201
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf58"
+  },
+  "fLength": 4293.571251137421,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T07:04:37Z"
+    },
+    "airport": 9122
+  },
+  "dep": {
+    "airport": 1575,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T04:38:55Z"
+    }
+  },
+  "plane": 107,
+  "id": 123,
+  "coPilot": 233,
+  "pilot": 209
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf59"
+  },
+  "fLength": 4099.706538081446,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T19:20:12Z"
+    },
+    "airport": 6455
+  },
+  "dep": {
+    "airport": 1322,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T13:41:18Z"
+    }
+  },
+  "plane": 150,
+  "id": 124,
+  "coPilot": 246,
+  "pilot": 222
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf5a"
+  },
+  "fLength": 1247.0861417499539,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T10:49:24Z"
+    },
+    "airport": 9044
+  },
+  "dep": {
+    "airport": 4480,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T09:59:02Z"
+    }
+  },
+  "plane": 68,
+  "id": 125,
+  "coPilot": 245,
+  "pilot": 207
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf5b"
+  },
+  "fLength": 2663.184979149347,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T15:26:20Z"
+    },
+    "airport": 8999
+  },
+  "dep": {
+    "airport": 807,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T01:08:38Z"
+    }
+  },
+  "plane": 7,
+  "id": 126,
+  "coPilot": 241,
+  "pilot": 206
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf5c"
+  },
+  "fLength": 1620.1465225690458,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T04:28:53Z"
+    },
+    "airport": 8318
+  },
+  "dep": {
+    "airport": 2444,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T16:49:56Z"
+    }
+  },
+  "plane": 104,
+  "id": 127,
+  "coPilot": 248,
+  "pilot": 211
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf5d"
+  },
+  "fLength": 1248.9017164240133,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T14:12:24Z"
+    },
+    "airport": 6816
+  },
+  "dep": {
+    "airport": 993,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T09:48:09Z"
+    }
+  },
+  "plane": 109,
+  "id": 128,
+  "coPilot": 238,
+  "pilot": 218
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf5e"
+  },
+  "fLength": 2234.732665076992,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T06:24:19Z"
+    },
+    "airport": 8298
+  },
+  "dep": {
+    "airport": 2218,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T23:45:30Z"
+    }
+  },
+  "plane": 47,
+  "id": 129,
+  "coPilot": 229,
+  "pilot": 208
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf5f"
+  },
+  "fLength": 2261.791735456236,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T13:17:44Z"
+    },
+    "airport": 6365
+  },
+  "dep": {
+    "airport": 831,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T05:44:02Z"
+    }
+  },
+  "plane": 45,
+  "id": 130,
+  "coPilot": 247,
+  "pilot": 218
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf60"
+  },
+  "fLength": 3983.2088400951297,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T03:20:03Z"
+    },
+    "airport": 7528
+  },
+  "dep": {
+    "airport": 3488,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T01:07:42Z"
+    }
+  },
+  "plane": 90,
+  "id": 131,
+  "coPilot": 238,
+  "pilot": 204
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf61"
+  },
+  "fLength": 4750.026546447269,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T02:47:46Z"
+    },
+    "airport": 5400
+  },
+  "dep": {
+    "airport": 1824,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T22:32:43Z"
+    }
+  },
+  "plane": 86,
+  "id": 132,
+  "coPilot": 244,
+  "pilot": 222
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf62"
+  },
+  "fLength": 1633.5636164559082,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T16:06:36Z"
+    },
+    "airport": 8193
+  },
+  "dep": {
+    "airport": 2411,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T19:10:37Z"
+    }
+  },
+  "plane": 30,
+  "id": 133,
+  "coPilot": 238,
+  "pilot": 215
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf63"
+  },
+  "fLength": 4360.208996125382,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T18:59:41Z"
+    },
+    "airport": 4851
+  },
+  "dep": {
+    "airport": 3395,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T03:10:09Z"
+    }
+  },
+  "plane": 55,
+  "id": 134,
+  "coPilot": 234,
+  "pilot": 219
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf64"
+  },
+  "fLength": 4689.312236547686,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T02:20:30Z"
+    },
+    "airport": 5735
+  },
+  "dep": {
+    "airport": 2183,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T15:58:53Z"
+    }
+  },
+  "plane": 136,
+  "id": 135,
+  "coPilot": 249,
+  "pilot": 201
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf65"
+  },
+  "fLength": 3490.1283580356976,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T14:42:04Z"
+    },
+    "airport": 4659
+  },
+  "dep": {
+    "airport": 4167,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T12:39:11Z"
+    }
+  },
+  "plane": 129,
+  "id": 136,
+  "coPilot": 239,
+  "pilot": 217
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf66"
+  },
+  "fLength": 3447.687647412479,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T09:57:03Z"
+    },
+    "airport": 5519
+  },
+  "dep": {
+    "airport": 86,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T16:27:11Z"
+    }
+  },
+  "plane": 131,
+  "id": 137,
+  "coPilot": 248,
+  "pilot": 224
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf67"
+  },
+  "fLength": 3007.868824908366,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T21:01:08Z"
+    },
+    "airport": 6849
+  },
+  "dep": {
+    "airport": 450,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T01:35:33Z"
+    }
+  },
+  "plane": 13,
+  "id": 138,
+  "coPilot": 242,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf68"
+  },
+  "fLength": 3559.342497560386,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T06:12:19Z"
+    },
+    "airport": 5666
+  },
+  "dep": {
+    "airport": 2581,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T01:30:53Z"
+    }
+  },
+  "plane": 41,
+  "id": 139,
+  "coPilot": 230,
+  "pilot": 216
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf69"
+  },
+  "fLength": 4734.141239602318,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T06:34:48Z"
+    },
+    "airport": 8313
+  },
+  "dep": {
+    "airport": 2763,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T03:16:12Z"
+    }
+  },
+  "plane": 6,
+  "id": 140,
+  "coPilot": 249,
+  "pilot": 206
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf6a"
+  },
+  "fLength": 4837.949005322524,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T04:03:14Z"
+    },
+    "airport": 5131
+  },
+  "dep": {
+    "airport": 1165,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T10:07:39Z"
+    }
+  },
+  "plane": 69,
+  "id": 141,
+  "coPilot": 228,
+  "pilot": 220
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf6b"
+  },
+  "fLength": 4420.670758231433,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T18:35:46Z"
+    },
+    "airport": 8700
+  },
+  "dep": {
+    "airport": 1693,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T13:45:24Z"
+    }
+  },
+  "plane": 6,
+  "id": 142,
+  "coPilot": 234,
+  "pilot": 216
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf6c"
+  },
+  "fLength": 1813.363603947506,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T00:43:03Z"
+    },
+    "airport": 8698
+  },
+  "dep": {
+    "airport": 440,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T09:04:31Z"
+    }
+  },
+  "plane": 75,
+  "id": 143,
+  "coPilot": 234,
+  "pilot": 209
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf6d"
+  },
+  "fLength": 4731.650543942653,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T21:57:14Z"
+    },
+    "airport": 8044
+  },
+  "dep": {
+    "airport": 4531,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T08:17:12Z"
+    }
+  },
+  "plane": 48,
+  "id": 144,
+  "coPilot": 234,
+  "pilot": 213
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf6e"
+  },
+  "fLength": 2640.8763395233996,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T07:44:56Z"
+    },
+    "airport": 5856
+  },
+  "dep": {
+    "airport": 1959,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T15:23:54Z"
+    }
+  },
+  "plane": 18,
+  "id": 145,
+  "coPilot": 237,
+  "pilot": 204
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf6f"
+  },
+  "fLength": 2749.8423129207386,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T16:41:38Z"
+    },
+    "airport": 6967
+  },
+  "dep": {
+    "airport": 2140,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T07:12:09Z"
+    }
+  },
+  "plane": 34,
+  "id": 146,
+  "coPilot": 242,
+  "pilot": 201
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf70"
+  },
+  "fLength": 3716.812849125215,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T10:23:24Z"
+    },
+    "airport": 5386
+  },
+  "dep": {
+    "airport": 1564,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T02:41:29Z"
+    }
+  },
+  "plane": 11,
+  "id": 147,
+  "coPilot": 244,
+  "pilot": 212
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf71"
+  },
+  "fLength": 3439.24557671461,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T15:29:18Z"
+    },
+    "airport": 7219
+  },
+  "dep": {
+    "airport": 1259,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T08:41:25Z"
+    }
+  },
+  "plane": 57,
+  "id": 148,
+  "coPilot": 234,
+  "pilot": 210
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf72"
+  },
+  "fLength": 1488.9288373392917,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T07:47:18Z"
+    },
+    "airport": 6169
+  },
+  "dep": {
+    "airport": 3617,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T00:25:57Z"
+    }
+  },
+  "plane": 51,
+  "id": 149,
+  "coPilot": 236,
+  "pilot": 204
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf73"
+  },
+  "fLength": 1923.4133497418818,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T01:05:45Z"
+    },
+    "airport": 4733
+  },
+  "dep": {
+    "airport": 478,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T06:31:26Z"
+    }
+  },
+  "plane": 34,
+  "id": 150,
+  "coPilot": 227,
+  "pilot": 208
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf74"
+  },
+  "fLength": 4225.557824341702,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T04:12:35Z"
+    },
+    "airport": 7792
+  },
+  "dep": {
+    "airport": 2470,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T18:25:52Z"
+    }
+  },
+  "plane": 22,
+  "id": 151,
+  "coPilot": 244,
+  "pilot": 203
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf75"
+  },
+  "fLength": 2514.431568486481,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T23:35:36Z"
+    },
+    "airport": 7225
+  },
+  "dep": {
+    "airport": 92,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T15:36:57Z"
+    }
+  },
+  "plane": 21,
+  "id": 152,
+  "coPilot": 233,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf76"
+  },
+  "fLength": 2173.6870552821274,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T22:45:24Z"
+    },
+    "airport": 5789
+  },
+  "dep": {
+    "airport": 1517,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T00:32:47Z"
+    }
+  },
+  "plane": 68,
+  "id": 153,
+  "coPilot": 248,
+  "pilot": 220
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf77"
+  },
+  "fLength": 2990.2765648772383,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T01:11:43Z"
+    },
+    "airport": 7030
+  },
+  "dep": {
+    "airport": 4350,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T00:19:11Z"
+    }
+  },
+  "plane": 78,
+  "id": 154,
+  "coPilot": 226,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf78"
+  },
+  "fLength": 5320.765344004771,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T05:16:09Z"
+    },
+    "airport": 8321
+  },
+  "dep": {
+    "airport": 1116,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T04:43:29Z"
+    }
+  },
+  "plane": 4,
+  "id": 155,
+  "coPilot": 236,
+  "pilot": 206
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf79"
+  },
+  "fLength": 4729.316101568811,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T03:35:07Z"
+    },
+    "airport": 7649
+  },
+  "dep": {
+    "airport": 2128,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T02:40:15Z"
+    }
+  },
+  "plane": 111,
+  "id": 156,
+  "coPilot": 241,
+  "pilot": 213
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf7a"
+  },
+  "fLength": 3829.156468624377,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T02:01:29Z"
+    },
+    "airport": 8242
+  },
+  "dep": {
+    "airport": 2639,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T23:41:21Z"
+    }
+  },
+  "plane": 88,
+  "id": 157,
+  "coPilot": 244,
+  "pilot": 218
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf7b"
+  },
+  "fLength": 5256.395450258684,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T21:51:40Z"
+    },
+    "airport": 7135
+  },
+  "dep": {
+    "airport": 2218,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T19:15:30Z"
+    }
+  },
+  "plane": 86,
+  "id": 158,
+  "coPilot": 226,
+  "pilot": 213
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf7c"
+  },
+  "fLength": 1558.9205017902023,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T01:30:50Z"
+    },
+    "airport": 7165
+  },
+  "dep": {
+    "airport": 462,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T17:48:02Z"
+    }
+  },
+  "plane": 8,
+  "id": 159,
+  "coPilot": 237,
+  "pilot": 201
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf7d"
+  },
+  "fLength": 2809.020862400459,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T21:35:24Z"
+    },
+    "airport": 6225
+  },
+  "dep": {
+    "airport": 358,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T00:55:13Z"
+    }
+  },
+  "plane": 29,
+  "id": 160,
+  "coPilot": 238,
+  "pilot": 222
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf7e"
+  },
+  "fLength": 5068.453311638899,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T11:49:21Z"
+    },
+    "airport": 9057
+  },
+  "dep": {
+    "airport": 4116,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T20:14:25Z"
+    }
+  },
+  "plane": 45,
+  "id": 161,
+  "coPilot": 229,
+  "pilot": 220
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf7f"
+  },
+  "fLength": 1948.2426091757004,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T02:58:20Z"
+    },
+    "airport": 4653
+  },
+  "dep": {
+    "airport": 3769,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T13:39:03Z"
+    }
+  },
+  "plane": 49,
+  "id": 162,
+  "coPilot": 227,
+  "pilot": 221
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf80"
+  },
+  "fLength": 4383.872782984022,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T07:46:53Z"
+    },
+    "airport": 8867
+  },
+  "dep": {
+    "airport": 1584,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T02:56:14Z"
+    }
+  },
+  "plane": 147,
+  "id": 163,
+  "coPilot": 241,
+  "pilot": 221
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf81"
+  },
+  "fLength": 4358.811141832741,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T09:23:23Z"
+    },
+    "airport": 5244
+  },
+  "dep": {
+    "airport": 360,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T20:34:50Z"
+    }
+  },
+  "plane": 2,
+  "id": 164,
+  "coPilot": 226,
+  "pilot": 206
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf82"
+  },
+  "fLength": 3661.4799362524764,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T03:50:47Z"
+    },
+    "airport": 5158
+  },
+  "dep": {
+    "airport": 1759,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T06:15:33Z"
+    }
+  },
+  "plane": 70,
+  "id": 165,
+  "coPilot": 226,
+  "pilot": 224
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf83"
+  },
+  "fLength": 3336.4806816484606,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T00:51:14Z"
+    },
+    "airport": 5482
+  },
+  "dep": {
+    "airport": 1991,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T15:55:44Z"
+    }
+  },
+  "plane": 53,
+  "id": 166,
+  "coPilot": 239,
+  "pilot": 204
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf84"
+  },
+  "fLength": 3813.4389877296876,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T04:10:06Z"
+    },
+    "airport": 5632
+  },
+  "dep": {
+    "airport": 2913,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T16:21:18Z"
+    }
+  },
+  "plane": 136,
+  "id": 167,
+  "coPilot": 235,
+  "pilot": 214
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf85"
+  },
+  "fLength": 1470.5733685521222,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T16:08:50Z"
+    },
+    "airport": 5630
+  },
+  "dep": {
+    "airport": 2485,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T22:47:04Z"
+    }
+  },
+  "plane": 33,
+  "id": 168,
+  "coPilot": 231,
+  "pilot": 217
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf86"
+  },
+  "fLength": 2121.468634401736,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T16:19:49Z"
+    },
+    "airport": 7654
+  },
+  "dep": {
+    "airport": 4328,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T02:33:17Z"
+    }
+  },
+  "plane": 130,
+  "id": 169,
+  "coPilot": 234,
+  "pilot": 213
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf87"
+  },
+  "fLength": 1915.3907964523069,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T23:46:05Z"
+    },
+    "airport": 6070
+  },
+  "dep": {
+    "airport": 3170,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T14:59:47Z"
+    }
+  },
+  "plane": 53,
+  "id": 170,
+  "coPilot": 243,
+  "pilot": 207
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf88"
+  },
+  "fLength": 1161.4242008022384,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T08:17:53Z"
+    },
+    "airport": 7869
+  },
+  "dep": {
+    "airport": 974,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T12:24:33Z"
+    }
+  },
+  "plane": 95,
+  "id": 171,
+  "coPilot": 243,
+  "pilot": 224
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf89"
+  },
+  "fLength": 4099.896939297227,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T18:47:56Z"
+    },
+    "airport": 8893
+  },
+  "dep": {
+    "airport": 1935,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T18:46:26Z"
+    }
+  },
+  "plane": 117,
+  "id": 172,
+  "coPilot": 235,
+  "pilot": 209
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf8a"
+  },
+  "fLength": 2870.609050937456,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T02:08:20Z"
+    },
+    "airport": 6615
+  },
+  "dep": {
+    "airport": 2937,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T16:00:47Z"
+    }
+  },
+  "plane": 16,
+  "id": 173,
+  "coPilot": 245,
+  "pilot": 202
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf8b"
+  },
+  "fLength": 1020.3347345937249,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T04:47:27Z"
+    },
+    "airport": 5326
+  },
+  "dep": {
+    "airport": 2077,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T08:52:01Z"
+    }
+  },
+  "plane": 75,
+  "id": 174,
+  "coPilot": 244,
+  "pilot": 225
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf8c"
+  },
+  "fLength": 3313.4072719003884,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T20:36:30Z"
+    },
+    "airport": 4946
+  },
+  "dep": {
+    "airport": 3511,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T07:21:17Z"
+    }
+  },
+  "plane": 54,
+  "id": 175,
+  "coPilot": 244,
+  "pilot": 211
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf8d"
+  },
+  "fLength": 5315.180759330929,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T23:04:19Z"
+    },
+    "airport": 4711
+  },
+  "dep": {
+    "airport": 1155,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T18:22:49Z"
+    }
+  },
+  "plane": 92,
+  "id": 176,
+  "coPilot": 236,
+  "pilot": 214
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf8e"
+  },
+  "fLength": 5416.167077754403,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T05:29:32Z"
+    },
+    "airport": 8653
+  },
+  "dep": {
+    "airport": 1634,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T16:28:35Z"
+    }
+  },
+  "plane": 105,
+  "id": 177,
+  "coPilot": 235,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf8f"
+  },
+  "fLength": 2492.5727251248018,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T11:51:28Z"
+    },
+    "airport": 7953
+  },
+  "dep": {
+    "airport": 1831,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T03:48:47Z"
+    }
+  },
+  "plane": 129,
+  "id": 178,
+  "coPilot": 235,
+  "pilot": 220
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf90"
+  },
+  "fLength": 3327.20475791999,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T21:34:13Z"
+    },
+    "airport": 8658
+  },
+  "dep": {
+    "airport": 4280,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T21:44:42Z"
+    }
+  },
+  "plane": 28,
+  "id": 179,
+  "coPilot": 248,
+  "pilot": 220
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf91"
+  },
+  "fLength": 4889.561443716177,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T13:03:01Z"
+    },
+    "airport": 8109
+  },
+  "dep": {
+    "airport": 1410,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T05:04:48Z"
+    }
+  },
+  "plane": 55,
+  "id": 180,
+  "coPilot": 241,
+  "pilot": 203
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf92"
+  },
+  "fLength": 4301.987733686432,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T20:38:12Z"
+    },
+    "airport": 7118
+  },
+  "dep": {
+    "airport": 1409,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T04:45:59Z"
+    }
+  },
+  "plane": 103,
+  "id": 181,
+  "coPilot": 226,
+  "pilot": 218
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf93"
+  },
+  "fLength": 1865.1300156504199,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T00:08:25Z"
+    },
+    "airport": 7013
+  },
+  "dep": {
+    "airport": 1197,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T19:47:49Z"
+    }
+  },
+  "plane": 3,
+  "id": 182,
+  "coPilot": 238,
+  "pilot": 210
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf94"
+  },
+  "fLength": 2011.5828734324355,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T00:16:55Z"
+    },
+    "airport": 7223
+  },
+  "dep": {
+    "airport": 3328,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T01:44:25Z"
+    }
+  },
+  "plane": 146,
+  "id": 183,
+  "coPilot": 239,
+  "pilot": 219
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf95"
+  },
+  "fLength": 2712.708731381218,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T19:09:24Z"
+    },
+    "airport": 6111
+  },
+  "dep": {
+    "airport": 379,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T09:14:57Z"
+    }
+  },
+  "plane": 11,
+  "id": 184,
+  "coPilot": 249,
+  "pilot": 213
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf96"
+  },
+  "fLength": 1245.5588811928287,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T18:22:39Z"
+    },
+    "airport": 5840
+  },
+  "dep": {
+    "airport": 3367,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T15:26:13Z"
+    }
+  },
+  "plane": 80,
+  "id": 185,
+  "coPilot": 228,
+  "pilot": 218
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf97"
+  },
+  "fLength": 4424.97011551627,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T12:27:47Z"
+    },
+    "airport": 7307
+  },
+  "dep": {
+    "airport": 2467,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T04:34:05Z"
+    }
+  },
+  "plane": 26,
+  "id": 186,
+  "coPilot": 228,
+  "pilot": 202
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf98"
+  },
+  "fLength": 5480.920900348397,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T06:12:37Z"
+    },
+    "airport": 7712
+  },
+  "dep": {
+    "airport": 1666,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T18:52:43Z"
+    }
+  },
+  "plane": 87,
+  "id": 187,
+  "coPilot": 248,
+  "pilot": 215
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf99"
+  },
+  "fLength": 1995.5162524882921,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T01:43:36Z"
+    },
+    "airport": 7321
+  },
+  "dep": {
+    "airport": 1528,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T23:29:27Z"
+    }
+  },
+  "plane": 5,
+  "id": 188,
+  "coPilot": 235,
+  "pilot": 210
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf9a"
+  },
+  "fLength": 1013.0429255770046,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T10:42:56Z"
+    },
+    "airport": 8011
+  },
+  "dep": {
+    "airport": 2103,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T00:39:02Z"
+    }
+  },
+  "plane": 69,
+  "id": 189,
+  "coPilot": 246,
+  "pilot": 215
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf9b"
+  },
+  "fLength": 3906.0149072166987,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T00:39:13Z"
+    },
+    "airport": 6246
+  },
+  "dep": {
+    "airport": 4411,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T09:53:26Z"
+    }
+  },
+  "plane": 8,
+  "id": 190,
+  "coPilot": 243,
+  "pilot": 212
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf9c"
+  },
+  "fLength": 3841.3803797636733,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T13:16:23Z"
+    },
+    "airport": 5038
+  },
+  "dep": {
+    "airport": 4383,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T03:16:13Z"
+    }
+  },
+  "plane": 96,
+  "id": 191,
+  "coPilot": 238,
+  "pilot": 216
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf9d"
+  },
+  "fLength": 1841.106767432318,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T04:54:53Z"
+    },
+    "airport": 4657
+  },
+  "dep": {
+    "airport": 2454,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T18:06:31Z"
+    }
+  },
+  "plane": 117,
+  "id": 192,
+  "coPilot": 248,
+  "pilot": 216
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf9e"
+  },
+  "fLength": 4616.825465028505,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T11:32:58Z"
+    },
+    "airport": 9218
+  },
+  "dep": {
+    "airport": 3259,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T23:02:49Z"
+    }
+  },
+  "plane": 134,
+  "id": 193,
+  "coPilot": 241,
+  "pilot": 225
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cf9f"
+  },
+  "fLength": 5449.974420582384,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T15:15:37Z"
+    },
+    "airport": 6974
+  },
+  "dep": {
+    "airport": 1495,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T07:27:48Z"
+    }
+  },
+  "plane": 94,
+  "id": 194,
+  "coPilot": 232,
+  "pilot": 213
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfa0"
+  },
+  "fLength": 1160.9767212549955,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T08:58:31Z"
+    },
+    "airport": 5253
+  },
+  "dep": {
+    "airport": 2273,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T19:45:48Z"
+    }
+  },
+  "plane": 16,
+  "id": 195,
+  "coPilot": 249,
+  "pilot": 204
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfa1"
+  },
+  "fLength": 3980.499240522334,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T15:49:34Z"
+    },
+    "airport": 8789
+  },
+  "dep": {
+    "airport": 3824,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T21:43:43Z"
+    }
+  },
+  "plane": 96,
+  "id": 196,
+  "coPilot": 236,
+  "pilot": 203
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfa2"
+  },
+  "fLength": 3472.5730808924013,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T04:01:51Z"
+    },
+    "airport": 6190
+  },
+  "dep": {
+    "airport": 2337,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T11:32:53Z"
+    }
+  },
+  "plane": 113,
+  "id": 197,
+  "coPilot": 230,
+  "pilot": 215
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfa3"
+  },
+  "fLength": 1020.8931786181399,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T19:54:46Z"
+    },
+    "airport": 7690
+  },
+  "dep": {
+    "airport": 466,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T22:54:01Z"
+    }
+  },
+  "plane": 127,
+  "id": 198,
+  "coPilot": 238,
+  "pilot": 225
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfa4"
+  },
+  "fLength": 4303.25766978044,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T06:38:37Z"
+    },
+    "airport": 6687
+  },
+  "dep": {
+    "airport": 3308,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T02:26:51Z"
+    }
+  },
+  "plane": 36,
+  "id": 199,
+  "coPilot": 249,
+  "pilot": 222
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfa5"
+  },
+  "fLength": 3262.729188161323,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T19:46:40Z"
+    },
+    "airport": 9127
+  },
+  "dep": {
+    "airport": 2246,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T21:54:04Z"
+    }
+  },
+  "plane": 103,
+  "id": 200,
+  "coPilot": 250,
+  "pilot": 207
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfa6"
+  },
+  "fLength": 4192.613607459614,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T04:09:12Z"
+    },
+    "airport": 7013
+  },
+  "dep": {
+    "airport": 4382,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T05:25:01Z"
+    }
+  },
+  "plane": 125,
+  "id": 201,
+  "coPilot": 228,
+  "pilot": 213
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfa7"
+  },
+  "fLength": 3202.433241226564,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T14:01:24Z"
+    },
+    "airport": 4796
+  },
+  "dep": {
+    "airport": 203,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T09:08:54Z"
+    }
+  },
+  "plane": 97,
+  "id": 202,
+  "coPilot": 233,
+  "pilot": 211
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfa8"
+  },
+  "fLength": 5192.0925035435175,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T01:49:48Z"
+    },
+    "airport": 7949
+  },
+  "dep": {
+    "airport": 144,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T12:15:49Z"
+    }
+  },
+  "plane": 125,
+  "id": 203,
+  "coPilot": 236,
+  "pilot": 211
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfa9"
+  },
+  "fLength": 3082.6329799264768,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T07:47:01Z"
+    },
+    "airport": 6766
+  },
+  "dep": {
+    "airport": 2807,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T10:08:13Z"
+    }
+  },
+  "plane": 80,
+  "id": 204,
+  "coPilot": 246,
+  "pilot": 208
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfaa"
+  },
+  "fLength": 4393.791977154162,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T23:49:28Z"
+    },
+    "airport": 7868
+  },
+  "dep": {
+    "airport": 2389,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T12:12:49Z"
+    }
+  },
+  "plane": 49,
+  "id": 205,
+  "coPilot": 226,
+  "pilot": 218
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfab"
+  },
+  "fLength": 5229.743455380953,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T11:51:45Z"
+    },
+    "airport": 7590
+  },
+  "dep": {
+    "airport": 3329,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T05:53:36Z"
+    }
+  },
+  "plane": 25,
+  "id": 206,
+  "coPilot": 240,
+  "pilot": 213
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfac"
+  },
+  "fLength": 1735.0279423460915,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T17:31:23Z"
+    },
+    "airport": 7482
+  },
+  "dep": {
+    "airport": 3366,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T18:13:05Z"
+    }
+  },
+  "plane": 104,
+  "id": 207,
+  "coPilot": 232,
+  "pilot": 212
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfad"
+  },
+  "fLength": 3461.684148447853,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T12:49:20Z"
+    },
+    "airport": 6786
+  },
+  "dep": {
+    "airport": 2249,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T11:46:54Z"
+    }
+  },
+  "plane": 148,
+  "id": 208,
+  "coPilot": 239,
+  "pilot": 206
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfae"
+  },
+  "fLength": 5160.743091681974,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T02:12:00Z"
+    },
+    "airport": 6066
+  },
+  "dep": {
+    "airport": 4267,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T03:56:06Z"
+    }
+  },
+  "plane": 6,
+  "id": 209,
+  "coPilot": 245,
+  "pilot": 206
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfaf"
+  },
+  "fLength": 5128.801981412214,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T00:50:17Z"
+    },
+    "airport": 8725
+  },
+  "dep": {
+    "airport": 2769,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T06:19:01Z"
+    }
+  },
+  "plane": 103,
+  "id": 210,
+  "coPilot": 246,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfb0"
+  },
+  "fLength": 2337.8489934759928,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T04:32:16Z"
+    },
+    "airport": 7546
+  },
+  "dep": {
+    "airport": 680,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T13:14:45Z"
+    }
+  },
+  "plane": 24,
+  "id": 211,
+  "coPilot": 241,
+  "pilot": 207
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfb1"
+  },
+  "fLength": 2882.5664254105286,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T11:19:26Z"
+    },
+    "airport": 4620
+  },
+  "dep": {
+    "airport": 1108,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T18:21:11Z"
+    }
+  },
+  "plane": 1,
+  "id": 212,
+  "coPilot": 246,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfb2"
+  },
+  "fLength": 3072.1566448609965,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T12:23:35Z"
+    },
+    "airport": 6437
+  },
+  "dep": {
+    "airport": 2073,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T07:32:56Z"
+    }
+  },
+  "plane": 105,
+  "id": 213,
+  "coPilot": 248,
+  "pilot": 222
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfb3"
+  },
+  "fLength": 3481.96874437323,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T19:53:57Z"
+    },
+    "airport": 8299
+  },
+  "dep": {
+    "airport": 2835,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T08:42:58Z"
+    }
+  },
+  "plane": 149,
+  "id": 214,
+  "coPilot": 238,
+  "pilot": 225
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfb4"
+  },
+  "fLength": 4745.089252944328,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T05:02:19Z"
+    },
+    "airport": 9076
+  },
+  "dep": {
+    "airport": 1732,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T07:51:55Z"
+    }
+  },
+  "plane": 64,
+  "id": 215,
+  "coPilot": 233,
+  "pilot": 211
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfb5"
+  },
+  "fLength": 4293.208585106155,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T04:34:25Z"
+    },
+    "airport": 7880
+  },
+  "dep": {
+    "airport": 2854,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T16:37:04Z"
+    }
+  },
+  "plane": 73,
+  "id": 216,
+  "coPilot": 226,
+  "pilot": 211
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfb6"
+  },
+  "fLength": 1997.2522968080098,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T14:01:29Z"
+    },
+    "airport": 4961
+  },
+  "dep": {
+    "airport": 1443,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T11:53:01Z"
+    }
+  },
+  "plane": 54,
+  "id": 217,
+  "coPilot": 237,
+  "pilot": 202
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfb7"
+  },
+  "fLength": 1655.3502391332522,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T15:34:14Z"
+    },
+    "airport": 8092
+  },
+  "dep": {
+    "airport": 3517,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T16:22:42Z"
+    }
+  },
+  "plane": 132,
+  "id": 218,
+  "coPilot": 240,
+  "pilot": 212
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfb8"
+  },
+  "fLength": 4247.397867079746,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T12:17:46Z"
+    },
+    "airport": 8258
+  },
+  "dep": {
+    "airport": 3997,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T17:34:40Z"
+    }
+  },
+  "plane": 43,
+  "id": 219,
+  "coPilot": 238,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfb9"
+  },
+  "fLength": 2986.12420449837,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T08:11:33Z"
+    },
+    "airport": 4848
+  },
+  "dep": {
+    "airport": 2574,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T23:09:43Z"
+    }
+  },
+  "plane": 148,
+  "id": 220,
+  "coPilot": 240,
+  "pilot": 206
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfba"
+  },
+  "fLength": 1321.1046210394852,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T22:48:06Z"
+    },
+    "airport": 6974
+  },
+  "dep": {
+    "airport": 3226,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T09:35:27Z"
+    }
+  },
+  "plane": 39,
+  "id": 221,
+  "coPilot": 233,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfbb"
+  },
+  "fLength": 5082.465281196405,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T15:46:05Z"
+    },
+    "airport": 7199
+  },
+  "dep": {
+    "airport": 216,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T19:11:56Z"
+    }
+  },
+  "plane": 87,
+  "id": 222,
+  "coPilot": 240,
+  "pilot": 207
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfbc"
+  },
+  "fLength": 5499.954026883314,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T23:31:48Z"
+    },
+    "airport": 7493
+  },
+  "dep": {
+    "airport": 3949,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T06:22:13Z"
+    }
+  },
+  "plane": 132,
+  "id": 223,
+  "coPilot": 242,
+  "pilot": 204
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfbd"
+  },
+  "fLength": 4408.238505385447,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T08:19:57Z"
+    },
+    "airport": 4841
+  },
+  "dep": {
+    "airport": 3727,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T12:27:52Z"
+    }
+  },
+  "plane": 17,
+  "id": 224,
+  "coPilot": 236,
+  "pilot": 215
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfbe"
+  },
+  "fLength": 3220.5281189456,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T07:21:58Z"
+    },
+    "airport": 7919
+  },
+  "dep": {
+    "airport": 884,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T13:23:24Z"
+    }
+  },
+  "plane": 114,
+  "id": 225,
+  "coPilot": 240,
+  "pilot": 225
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfbf"
+  },
+  "fLength": 4394.224106756232,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T20:27:25Z"
+    },
+    "airport": 7797
+  },
+  "dep": {
+    "airport": 4409,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T11:36:02Z"
+    }
+  },
+  "plane": 74,
+  "id": 226,
+  "coPilot": 239,
+  "pilot": 220
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfc0"
+  },
+  "fLength": 2787.1522478493894,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T13:58:26Z"
+    },
+    "airport": 9176
+  },
+  "dep": {
+    "airport": 1479,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T17:34:06Z"
+    }
+  },
+  "plane": 22,
+  "id": 227,
+  "coPilot": 249,
+  "pilot": 215
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfc1"
+  },
+  "fLength": 2991.6304255035316,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T13:55:03Z"
+    },
+    "airport": 4794
+  },
+  "dep": {
+    "airport": 2907,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T00:17:09Z"
+    }
+  },
+  "plane": 119,
+  "id": 228,
+  "coPilot": 243,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfc2"
+  },
+  "fLength": 4865.95670196354,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T01:07:18Z"
+    },
+    "airport": 7987
+  },
+  "dep": {
+    "airport": 3558,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T08:50:42Z"
+    }
+  },
+  "plane": 134,
+  "id": 229,
+  "coPilot": 233,
+  "pilot": 225
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfc3"
+  },
+  "fLength": 5341.092548595809,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T15:21:19Z"
+    },
+    "airport": 6132
+  },
+  "dep": {
+    "airport": 1577,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T05:02:54Z"
+    }
+  },
+  "plane": 150,
+  "id": 230,
+  "coPilot": 233,
+  "pilot": 225
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfc4"
+  },
+  "fLength": 2209.326456021121,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T11:28:15Z"
+    },
+    "airport": 8115
+  },
+  "dep": {
+    "airport": 781,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T15:41:30Z"
+    }
+  },
+  "plane": 120,
+  "id": 231,
+  "coPilot": 239,
+  "pilot": 203
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfc5"
+  },
+  "fLength": 2378.834410634139,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T06:22:03Z"
+    },
+    "airport": 8982
+  },
+  "dep": {
+    "airport": 2393,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T08:54:22Z"
+    }
+  },
+  "plane": 3,
+  "id": 232,
+  "coPilot": 227,
+  "pilot": 208
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfc6"
+  },
+  "fLength": 2225.3996302912524,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T21:22:21Z"
+    },
+    "airport": 6192
+  },
+  "dep": {
+    "airport": 4034,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T23:40:12Z"
+    }
+  },
+  "plane": 69,
+  "id": 233,
+  "coPilot": 239,
+  "pilot": 209
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfc7"
+  },
+  "fLength": 4027.2948366816713,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T09:23:53Z"
+    },
+    "airport": 5002
+  },
+  "dep": {
+    "airport": 413,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T05:30:06Z"
+    }
+  },
+  "plane": 61,
+  "id": 234,
+  "coPilot": 244,
+  "pilot": 209
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfc8"
+  },
+  "fLength": 2964.412294814335,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T14:20:10Z"
+    },
+    "airport": 8121
+  },
+  "dep": {
+    "airport": 2245,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T15:27:24Z"
+    }
+  },
+  "plane": 115,
+  "id": 235,
+  "coPilot": 246,
+  "pilot": 222
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfc9"
+  },
+  "fLength": 4528.295101688995,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T11:57:48Z"
+    },
+    "airport": 5177
+  },
+  "dep": {
+    "airport": 181,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T09:52:10Z"
+    }
+  },
+  "plane": 30,
+  "id": 236,
+  "coPilot": 250,
+  "pilot": 204
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfca"
+  },
+  "fLength": 5045.225256382528,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T22:32:57Z"
+    },
+    "airport": 6301
+  },
+  "dep": {
+    "airport": 1487,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T00:49:00Z"
+    }
+  },
+  "plane": 30,
+  "id": 237,
+  "coPilot": 238,
+  "pilot": 221
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfcb"
+  },
+  "fLength": 5326.148390494279,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T14:13:07Z"
+    },
+    "airport": 7775
+  },
+  "dep": {
+    "airport": 1752,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T21:44:17Z"
+    }
+  },
+  "plane": 147,
+  "id": 238,
+  "coPilot": 238,
+  "pilot": 212
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfcc"
+  },
+  "fLength": 3150.1672321791575,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T14:11:44Z"
+    },
+    "airport": 5283
+  },
+  "dep": {
+    "airport": 4360,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T00:33:37Z"
+    }
+  },
+  "plane": 117,
+  "id": 239,
+  "coPilot": 244,
+  "pilot": 224
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfcd"
+  },
+  "fLength": 4741.972100246781,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T10:38:30Z"
+    },
+    "airport": 5641
+  },
+  "dep": {
+    "airport": 1324,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T20:47:24Z"
+    }
+  },
+  "plane": 126,
+  "id": 240,
+  "coPilot": 227,
+  "pilot": 219
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfce"
+  },
+  "fLength": 3415.1545946112824,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T15:12:35Z"
+    },
+    "airport": 8220
+  },
+  "dep": {
+    "airport": 4453,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T16:50:15Z"
+    }
+  },
+  "plane": 23,
+  "id": 241,
+  "coPilot": 245,
+  "pilot": 207
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfcf"
+  },
+  "fLength": 4698.141045726099,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T22:35:27Z"
+    },
+    "airport": 6969
+  },
+  "dep": {
+    "airport": 2190,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T10:05:36Z"
+    }
+  },
+  "plane": 66,
+  "id": 242,
+  "coPilot": 245,
+  "pilot": 207
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfd0"
+  },
+  "fLength": 5297.789257645245,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T15:29:05Z"
+    },
+    "airport": 5433
+  },
+  "dep": {
+    "airport": 3459,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T03:36:50Z"
+    }
+  },
+  "plane": 91,
+  "id": 243,
+  "coPilot": 239,
+  "pilot": 223
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfd1"
+  },
+  "fLength": 4936.9940094500125,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T23:58:42Z"
+    },
+    "airport": 6916
+  },
+  "dep": {
+    "airport": 3037,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T05:04:44Z"
+    }
+  },
+  "plane": 69,
+  "id": 244,
+  "coPilot": 236,
+  "pilot": 207
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfd2"
+  },
+  "fLength": 2073.4100481263486,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T20:07:51Z"
+    },
+    "airport": 5002
+  },
+  "dep": {
+    "airport": 2552,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T04:36:28Z"
+    }
+  },
+  "plane": 79,
+  "id": 245,
+  "coPilot": 246,
+  "pilot": 210
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfd3"
+  },
+  "fLength": 3305.1228322800257,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T16:52:41Z"
+    },
+    "airport": 5815
+  },
+  "dep": {
+    "airport": 444,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T08:41:23Z"
+    }
+  },
+  "plane": 59,
+  "id": 246,
+  "coPilot": 237,
+  "pilot": 209
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfd4"
+  },
+  "fLength": 5417.71817377547,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T08:18:56Z"
+    },
+    "airport": 5352
+  },
+  "dep": {
+    "airport": 122,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T14:37:29Z"
+    }
+  },
+  "plane": 146,
+  "id": 247,
+  "coPilot": 239,
+  "pilot": 208
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfd5"
+  },
+  "fLength": 3123.1043726822745,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T11:14:23Z"
+    },
+    "airport": 8353
+  },
+  "dep": {
+    "airport": 537,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T21:41:08Z"
+    }
+  },
+  "plane": 22,
+  "id": 248,
+  "coPilot": 247,
+  "pilot": 221
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfd6"
+  },
+  "fLength": 2226.3138847427417,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T12:13:49Z"
+    },
+    "airport": 6153
+  },
+  "dep": {
+    "airport": 3195,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T16:39:50Z"
+    }
+  },
+  "plane": 135,
+  "id": 249,
+  "coPilot": 247,
+  "pilot": 224
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfd7"
+  },
+  "fLength": 3178.9590889362144,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T07:35:20Z"
+    },
+    "airport": 7127
+  },
+  "dep": {
+    "airport": 4,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T08:37:05Z"
+    }
+  },
+  "plane": 2,
+  "id": 250,
+  "coPilot": 231,
+  "pilot": 206
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfd8"
+  },
+  "fLength": 1072.9298985127793,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T11:16:07Z"
+    },
+    "airport": 6335
+  },
+  "dep": {
+    "airport": 1801,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T08:13:55Z"
+    }
+  },
+  "plane": 76,
+  "id": 251,
+  "coPilot": 226,
+  "pilot": 222
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfd9"
+  },
+  "fLength": 3157.2194243614745,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T09:28:28Z"
+    },
+    "airport": 8615
+  },
+  "dep": {
+    "airport": 2984,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T19:48:50Z"
+    }
+  },
+  "plane": 2,
+  "id": 252,
+  "coPilot": 248,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfda"
+  },
+  "fLength": 3291.3837906555946,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T12:57:31Z"
+    },
+    "airport": 6837
+  },
+  "dep": {
+    "airport": 4310,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T08:30:15Z"
+    }
+  },
+  "plane": 20,
+  "id": 253,
+  "coPilot": 229,
+  "pilot": 201
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfdb"
+  },
+  "fLength": 5194.130384203154,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T14:59:46Z"
+    },
+    "airport": 4928
+  },
+  "dep": {
+    "airport": 3009,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T09:33:16Z"
+    }
+  },
+  "plane": 68,
+  "id": 254,
+  "coPilot": 250,
+  "pilot": 222
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfdc"
+  },
+  "fLength": 4304.833119555981,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T19:52:21Z"
+    },
+    "airport": 5443
+  },
+  "dep": {
+    "airport": 3171,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T08:33:42Z"
+    }
+  },
+  "plane": 109,
+  "id": 255,
+  "coPilot": 239,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfdd"
+  },
+  "fLength": 3570.5081601780685,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T04:26:45Z"
+    },
+    "airport": 7348
+  },
+  "dep": {
+    "airport": 198,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T15:24:53Z"
+    }
+  },
+  "plane": 80,
+  "id": 256,
+  "coPilot": 247,
+  "pilot": 224
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfde"
+  },
+  "fLength": 2843.2387664148537,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T01:06:35Z"
+    },
+    "airport": 6538
+  },
+  "dep": {
+    "airport": 3573,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T13:45:49Z"
+    }
+  },
+  "plane": 93,
+  "id": 257,
+  "coPilot": 237,
+  "pilot": 201
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfdf"
+  },
+  "fLength": 1347.2324410548547,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T22:36:53Z"
+    },
+    "airport": 7373
+  },
+  "dep": {
+    "airport": 1822,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T13:28:40Z"
+    }
+  },
+  "plane": 147,
+  "id": 258,
+  "coPilot": 226,
+  "pilot": 212
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfe0"
+  },
+  "fLength": 2249.80741673122,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T06:01:29Z"
+    },
+    "airport": 9168
+  },
+  "dep": {
+    "airport": 1434,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T16:20:29Z"
+    }
+  },
+  "plane": 117,
+  "id": 259,
+  "coPilot": 231,
+  "pilot": 205
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfe1"
+  },
+  "fLength": 3166.3020267516076,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T23:21:25Z"
+    },
+    "airport": 5573
+  },
+  "dep": {
+    "airport": 1612,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T03:30:31Z"
+    }
+  },
+  "plane": 42,
+  "id": 260,
+  "coPilot": 247,
+  "pilot": 213
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfe2"
+  },
+  "fLength": 4373.2945653067545,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T10:01:00Z"
+    },
+    "airport": 4697
+  },
+  "dep": {
+    "airport": 3381,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T22:03:28Z"
+    }
+  },
+  "plane": 57,
+  "id": 261,
+  "coPilot": 240,
+  "pilot": 218
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfe3"
+  },
+  "fLength": 5457.301251767753,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T23:20:13Z"
+    },
+    "airport": 8469
+  },
+  "dep": {
+    "airport": 1864,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T13:30:54Z"
+    }
+  },
+  "plane": 39,
+  "id": 262,
+  "coPilot": 250,
+  "pilot": 210
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfe4"
+  },
+  "fLength": 2883.596784882294,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T12:17:06Z"
+    },
+    "airport": 7199
+  },
+  "dep": {
+    "airport": 3778,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T20:32:35Z"
+    }
+  },
+  "plane": 94,
+  "id": 263,
+  "coPilot": 242,
+  "pilot": 219
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfe5"
+  },
+  "fLength": 1280.548784143442,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T21:28:32Z"
+    },
+    "airport": 8740
+  },
+  "dep": {
+    "airport": 2939,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T08:28:51Z"
+    }
+  },
+  "plane": 64,
+  "id": 264,
+  "coPilot": 246,
+  "pilot": 209
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfe6"
+  },
+  "fLength": 4824.531088938489,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T22:12:40Z"
+    },
+    "airport": 6507
+  },
+  "dep": {
+    "airport": 3143,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T06:55:37Z"
+    }
+  },
+  "plane": 77,
+  "id": 265,
+  "coPilot": 231,
+  "pilot": 220
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfe7"
+  },
+  "fLength": 4556.750676043755,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T00:24:03Z"
+    },
+    "airport": 7801
+  },
+  "dep": {
+    "airport": 3820,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T15:14:57Z"
+    }
+  },
+  "plane": 100,
+  "id": 266,
+  "coPilot": 227,
+  "pilot": 221
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfe8"
+  },
+  "fLength": 2769.0641959526956,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T04:59:09Z"
+    },
+    "airport": 9076
+  },
+  "dep": {
+    "airport": 35,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T14:43:39Z"
+    }
+  },
+  "plane": 88,
+  "id": 267,
+  "coPilot": 250,
+  "pilot": 220
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfe9"
+  },
+  "fLength": 3147.981127451691,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T09:07:29Z"
+    },
+    "airport": 8906
+  },
+  "dep": {
+    "airport": 1068,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T16:37:15Z"
+    }
+  },
+  "plane": 2,
+  "id": 268,
+  "coPilot": 233,
+  "pilot": 207
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfea"
+  },
+  "fLength": 3886.2795349851913,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T18:00:01Z"
+    },
+    "airport": 6066
+  },
+  "dep": {
+    "airport": 607,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T01:09:47Z"
+    }
+  },
+  "plane": 84,
+  "id": 269,
+  "coPilot": 232,
+  "pilot": 218
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfeb"
+  },
+  "fLength": 5045.186898299082,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T07:39:52Z"
+    },
+    "airport": 7415
+  },
+  "dep": {
+    "airport": 2976,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T08:08:47Z"
+    }
+  },
+  "plane": 81,
+  "id": 270,
+  "coPilot": 233,
+  "pilot": 210
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfec"
+  },
+  "fLength": 2937.9010826199537,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T02:46:42Z"
+    },
+    "airport": 6051
+  },
+  "dep": {
+    "airport": 1875,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T09:52:37Z"
+    }
+  },
+  "plane": 84,
+  "id": 271,
+  "coPilot": 237,
+  "pilot": 206
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfed"
+  },
+  "fLength": 3245.6315700085784,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T12:52:59Z"
+    },
+    "airport": 5774
+  },
+  "dep": {
+    "airport": 4269,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T21:42:28Z"
+    }
+  },
+  "plane": 84,
+  "id": 272,
+  "coPilot": 232,
+  "pilot": 213
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfee"
+  },
+  "fLength": 3009.630546030475,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T16:31:53Z"
+    },
+    "airport": 5453
+  },
+  "dep": {
+    "airport": 3011,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T13:56:08Z"
+    }
+  },
+  "plane": 80,
+  "id": 273,
+  "coPilot": 247,
+  "pilot": 212
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfef"
+  },
+  "fLength": 3559.270987073567,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T21:55:11Z"
+    },
+    "airport": 7917
+  },
+  "dep": {
+    "airport": 4187,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T06:38:35Z"
+    }
+  },
+  "plane": 53,
+  "id": 274,
+  "coPilot": 249,
+  "pilot": 211
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cff0"
+  },
+  "fLength": 4445.417562484998,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T04:27:53Z"
+    },
+    "airport": 7899
+  },
+  "dep": {
+    "airport": 2870,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T23:26:59Z"
+    }
+  },
+  "plane": 21,
+  "id": 275,
+  "coPilot": 241,
+  "pilot": 220
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cff1"
+  },
+  "fLength": 4449.729706022834,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T13:46:35Z"
+    },
+    "airport": 8100
+  },
+  "dep": {
+    "airport": 3336,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T16:20:26Z"
+    }
+  },
+  "plane": 42,
+  "id": 276,
+  "coPilot": 245,
+  "pilot": 222
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cff2"
+  },
+  "fLength": 5277.954322036558,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T13:18:51Z"
+    },
+    "airport": 7180
+  },
+  "dep": {
+    "airport": 2506,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T08:15:15Z"
+    }
+  },
+  "plane": 48,
+  "id": 277,
+  "coPilot": 229,
+  "pilot": 203
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cff3"
+  },
+  "fLength": 3315.0261848341966,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T17:04:32Z"
+    },
+    "airport": 8247
+  },
+  "dep": {
+    "airport": 1654,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T18:54:52Z"
+    }
+  },
+  "plane": 51,
+  "id": 278,
+  "coPilot": 229,
+  "pilot": 204
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cff4"
+  },
+  "fLength": 4590.865813570948,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T09:14:06Z"
+    },
+    "airport": 8002
+  },
+  "dep": {
+    "airport": 3900,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T17:41:26Z"
+    }
+  },
+  "plane": 121,
+  "id": 279,
+  "coPilot": 232,
+  "pilot": 210
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cff5"
+  },
+  "fLength": 4772.260452582685,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T05:52:01Z"
+    },
+    "airport": 6936
+  },
+  "dep": {
+    "airport": 3280,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T04:33:41Z"
+    }
+  },
+  "plane": 146,
+  "id": 280,
+  "coPilot": 242,
+  "pilot": 222
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cff6"
+  },
+  "fLength": 5315.7955970558405,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T12:15:21Z"
+    },
+    "airport": 8951
+  },
+  "dep": {
+    "airport": 3711,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T03:00:11Z"
+    }
+  },
+  "plane": 102,
+  "id": 281,
+  "coPilot": 226,
+  "pilot": 224
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cff7"
+  },
+  "fLength": 1134.162315608071,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T21:33:02Z"
+    },
+    "airport": 6982
+  },
+  "dep": {
+    "airport": 4338,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T23:17:16Z"
+    }
+  },
+  "plane": 30,
+  "id": 282,
+  "coPilot": 249,
+  "pilot": 203
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cff8"
+  },
+  "fLength": 3027.1042989216685,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T14:55:29Z"
+    },
+    "airport": 8347
+  },
+  "dep": {
+    "airport": 1235,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T19:31:57Z"
+    }
+  },
+  "plane": 91,
+  "id": 283,
+  "coPilot": 228,
+  "pilot": 215
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cff9"
+  },
+  "fLength": 3462.8091469554984,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T01:14:15Z"
+    },
+    "airport": 6539
+  },
+  "dep": {
+    "airport": 4272,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T09:29:31Z"
+    }
+  },
+  "plane": 141,
+  "id": 284,
+  "coPilot": 228,
+  "pilot": 220
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cffa"
+  },
+  "fLength": 3312.358872034824,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T14:33:24Z"
+    },
+    "airport": 5315
+  },
+  "dep": {
+    "airport": 1277,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T16:44:14Z"
+    }
+  },
+  "plane": 69,
+  "id": 285,
+  "coPilot": 233,
+  "pilot": 210
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cffb"
+  },
+  "fLength": 3617.0477509804223,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T07:27:04Z"
+    },
+    "airport": 5031
+  },
+  "dep": {
+    "airport": 4159,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T00:36:34Z"
+    }
+  },
+  "plane": 61,
+  "id": 286,
+  "coPilot": 229,
+  "pilot": 211
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cffc"
+  },
+  "fLength": 4455.867615344476,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T16:21:34Z"
+    },
+    "airport": 8021
+  },
+  "dep": {
+    "airport": 3340,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T07:12:31Z"
+    }
+  },
+  "plane": 25,
+  "id": 287,
+  "coPilot": 230,
+  "pilot": 220
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cffd"
+  },
+  "fLength": 1895.0141424202652,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T04:47:43Z"
+    },
+    "airport": 5534
+  },
+  "dep": {
+    "airport": 4105,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T20:27:22Z"
+    }
+  },
+  "plane": 107,
+  "id": 288,
+  "coPilot": 227,
+  "pilot": 207
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cffe"
+  },
+  "fLength": 4760.611809097631,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T01:04:35Z"
+    },
+    "airport": 4795
+  },
+  "dep": {
+    "airport": 3753,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T01:54:27Z"
+    }
+  },
+  "plane": 81,
+  "id": 289,
+  "coPilot": 250,
+  "pilot": 210
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907cfff"
+  },
+  "fLength": 1737.7018503073957,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T06:05:25Z"
+    },
+    "airport": 6613
+  },
+  "dep": {
+    "airport": 3759,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T19:53:10Z"
+    }
+  },
+  "plane": 36,
+  "id": 290,
+  "coPilot": 226,
+  "pilot": 214
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907d000"
+  },
+  "fLength": 1271.784712573634,
+  "arv": {
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T11:43:11Z"
+    },
+    "airport": 8029
+  },
+  "dep": {
+    "airport": 3414,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T09:59:07Z"
+    }
+  },
+  "plane": 114,
+  "id": 291,
+  "coPilot": 234,
+  "pilot": 208
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907d001"
+  },
+  "fLength": 1265.031305127825,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T02:31:38Z"
+    },
+    "airport": 5720
+  },
+  "dep": {
+    "airport": 1191,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T05:12:11Z"
+    }
+  },
+  "plane": 119,
+  "id": 292,
+  "coPilot": 242,
+  "pilot": 204
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907d002"
+  },
+  "fLength": 5341.090677966043,
+  "arv": {
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T17:26:19Z"
+    },
+    "airport": 7105
+  },
+  "dep": {
+    "airport": 1925,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T21:16:10Z"
+    }
+  },
+  "plane": 63,
+  "id": 293,
+  "coPilot": 249,
+  "pilot": 213
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907d003"
+  },
+  "fLength": 3179.529213142783,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T15:20:25Z"
+    },
+    "airport": 7347
+  },
+  "dep": {
+    "airport": 717,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T03:00:11Z"
+    }
+  },
+  "plane": 18,
+  "id": 294,
+  "coPilot": 237,
+  "pilot": 223
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907d004"
+  },
+  "fLength": 3251.276384086605,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T05:48:59Z"
+    },
+    "airport": 8491
+  },
+  "dep": {
+    "airport": 1459,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T22:22:12Z"
+    }
+  },
+  "plane": 1,
+  "id": 295,
+  "coPilot": 249,
+  "pilot": 212
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907d005"
+  },
+  "fLength": 1613.032665400814,
+  "arv": {
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T10:02:52Z"
+    },
+    "airport": 7187
+  },
+  "dep": {
+    "airport": 582,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T18:11:02Z"
+    }
+  },
+  "plane": 76,
+  "id": 296,
+  "coPilot": 244,
+  "pilot": 201
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907d006"
+  },
+  "fLength": 2747.0550401282853,
+  "arv": {
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-03T09:53:57Z"
+    },
+    "airport": 8262
+  },
+  "dep": {
+    "airport": 2040,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T04:44:20Z"
+    }
+  },
+  "plane": 64,
+  "id": 297,
+  "coPilot": 238,
+  "pilot": 211
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907d007"
+  },
+  "fLength": 5009.667476770977,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T19:14:30Z"
+    },
+    "airport": 8069
+  },
+  "dep": {
+    "airport": 1608,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T12:13:29Z"
+    }
+  },
+  "plane": 61,
+  "id": 298,
+  "coPilot": 236,
+  "pilot": 220
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907d008"
+  },
+  "fLength": 4482.374668020664,
+  "arv": {
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T12:04:06Z"
+    },
+    "airport": 7830
+  },
+  "dep": {
+    "airport": 1734,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-12-01T04:00:56Z"
+    }
+  },
+  "plane": 117,
+  "id": 299,
+  "coPilot": 231,
+  "pilot": 213
+},{
+  "_id": {
+    "$oid": "61c3964162d023612907d009"
+  },
+  "fLength": 1036.499738005516,
+  "arv": {
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-03T22:30:36Z"
+    },
+    "airport": 9101
+  },
+  "dep": {
+    "airport": 4322,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-12-01T09:24:30Z"
+    }
+  },
+  "plane": 86,
+  "id": 300,
+  "coPilot": 249,
+  "pilot": 207
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626231"
+  },
+  "arv": {
+    "airport": 8801,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T14:05:31Z"
+    }
+  },
+  "dep": {
+    "airport": 2558,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T22:00:23Z"
+    }
+  },
+  "plane": 130,
+  "id": 301,
+  "coPilot": 226,
+  "pilot": 213,
+  "fLength": 2119.2683459150476
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626232"
+  },
+  "arv": {
+    "airport": 7691,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T05:46:21Z"
+    }
+  },
+  "dep": {
+    "airport": 2383,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T15:48:35Z"
+    }
+  },
+  "plane": 71,
+  "id": 302,
+  "coPilot": 242,
+  "pilot": 210,
+  "fLength": 2950.47820968008
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626233"
+  },
+  "arv": {
+    "airport": 4716,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T02:04:53Z"
+    }
+  },
+  "dep": {
+    "airport": 2544,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T05:49:21Z"
+    }
+  },
+  "plane": 123,
+  "id": 303,
+  "coPilot": 241,
+  "pilot": 206,
+  "fLength": 2526.543630783679
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626234"
+  },
+  "arv": {
+    "airport": 7745,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T15:59:31Z"
+    }
+  },
+  "dep": {
+    "airport": 3047,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T08:22:04Z"
+    }
+  },
+  "plane": 64,
+  "id": 304,
+  "coPilot": 238,
+  "pilot": 219,
+  "fLength": 4431.713565434238
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626235"
+  },
+  "arv": {
+    "airport": 5624,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T20:12:58Z"
+    }
+  },
+  "dep": {
+    "airport": 3390,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T18:32:13Z"
+    }
+  },
+  "plane": 43,
+  "id": 305,
+  "coPilot": 243,
+  "pilot": 206,
+  "fLength": 2127.346965498126
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626236"
+  },
+  "arv": {
+    "airport": 4906,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T04:23:16Z"
+    }
+  },
+  "dep": {
+    "airport": 1035,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T01:40:15Z"
+    }
+  },
+  "plane": 100,
+  "id": 306,
+  "coPilot": 241,
+  "pilot": 215,
+  "fLength": 2689.1886936484434
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626237"
+  },
+  "arv": {
+    "airport": 5160,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T17:39:59Z"
+    }
+  },
+  "dep": {
+    "airport": 1378,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T14:01:07Z"
+    }
+  },
+  "plane": 85,
+  "id": 307,
+  "coPilot": 249,
+  "pilot": 202,
+  "fLength": 1132.8336809368768
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626238"
+  },
+  "arv": {
+    "airport": 5272,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T16:55:59Z"
+    }
+  },
+  "dep": {
+    "airport": 3873,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T23:47:44Z"
+    }
+  },
+  "plane": 124,
+  "id": 308,
+  "coPilot": 231,
+  "pilot": 221,
+  "fLength": 4039.2718188699673
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626239"
+  },
+  "arv": {
+    "airport": 5853,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T20:15:44Z"
+    }
+  },
+  "dep": {
+    "airport": 1705,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T19:08:47Z"
+    }
+  },
+  "plane": 12,
+  "id": 309,
+  "coPilot": 235,
+  "pilot": 208,
+  "fLength": 1364.3438684659916
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762623a"
+  },
+  "arv": {
+    "airport": 7650,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T02:30:34Z"
+    }
+  },
+  "dep": {
+    "airport": 4284,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T05:25:18Z"
+    }
+  },
+  "plane": 54,
+  "id": 310,
+  "coPilot": 245,
+  "pilot": 213,
+  "fLength": 3385.0877385553667
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762623b"
+  },
+  "arv": {
+    "airport": 5182,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T09:53:34Z"
+    }
+  },
+  "dep": {
+    "airport": 727,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T06:02:27Z"
+    }
+  },
+  "plane": 128,
+  "id": 311,
+  "coPilot": 231,
+  "pilot": 222,
+  "fLength": 4250.529065449371
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762623c"
+  },
+  "arv": {
+    "airport": 7586,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T17:15:49Z"
+    }
+  },
+  "dep": {
+    "airport": 2955,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T19:54:50Z"
+    }
+  },
+  "plane": 21,
+  "id": 312,
+  "coPilot": 246,
+  "pilot": 208,
+  "fLength": 5390.904266028332
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762623d"
+  },
+  "arv": {
+    "airport": 6211,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T02:24:35Z"
+    }
+  },
+  "dep": {
+    "airport": 92,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T20:51:53Z"
+    }
+  },
+  "plane": 9,
+  "id": 313,
+  "coPilot": 234,
+  "pilot": 212,
+  "fLength": 4222.3805790093975
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762623e"
+  },
+  "arv": {
+    "airport": 6919,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T15:48:49Z"
+    }
+  },
+  "dep": {
+    "airport": 3829,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T14:48:51Z"
+    }
+  },
+  "plane": 67,
+  "id": 314,
+  "coPilot": 237,
+  "pilot": 217,
+  "fLength": 3310.630481753475
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762623f"
+  },
+  "arv": {
+    "airport": 8451,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T05:14:16Z"
+    }
+  },
+  "dep": {
+    "airport": 3002,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T00:35:41Z"
+    }
+  },
+  "plane": 17,
+  "id": 315,
+  "coPilot": 245,
+  "pilot": 210,
+  "fLength": 2462.8206073210717
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626240"
+  },
+  "arv": {
+    "airport": 5107,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T09:39:32Z"
+    }
+  },
+  "dep": {
+    "airport": 665,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-10T03:28:26Z"
+    }
+  },
+  "plane": 129,
+  "id": 316,
+  "coPilot": 250,
+  "pilot": 224,
+  "fLength": 2980.391041554899
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626241"
+  },
+  "arv": {
+    "airport": 8266,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T06:03:18Z"
+    }
+  },
+  "dep": {
+    "airport": 1649,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T20:49:02Z"
+    }
+  },
+  "plane": 82,
+  "id": 317,
+  "coPilot": 248,
+  "pilot": 224,
+  "fLength": 1628.7332178014785
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626242"
+  },
+  "arv": {
+    "airport": 6294,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T18:12:43Z"
+    }
+  },
+  "dep": {
+    "airport": 925,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T04:53:38Z"
+    }
+  },
+  "plane": 63,
+  "id": 318,
+  "coPilot": 245,
+  "pilot": 206,
+  "fLength": 2391.7743473789806
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626243"
+  },
+  "arv": {
+    "airport": 7042,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T08:21:43Z"
+    }
+  },
+  "dep": {
+    "airport": 4446,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T06:14:56Z"
+    }
+  },
+  "plane": 120,
+  "id": 319,
+  "coPilot": 235,
+  "pilot": 222,
+  "fLength": 2868.937261018835
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626244"
+  },
+  "arv": {
+    "airport": 6430,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T19:08:17Z"
+    }
+  },
+  "dep": {
+    "airport": 915,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T21:28:38Z"
+    }
+  },
+  "plane": 140,
+  "id": 320,
+  "coPilot": 240,
+  "pilot": 205,
+  "fLength": 5235.625331283252
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626245"
+  },
+  "arv": {
+    "airport": 7928,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T17:12:32Z"
+    }
+  },
+  "dep": {
+    "airport": 4280,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T20:26:12Z"
+    }
+  },
+  "plane": 24,
+  "id": 321,
+  "coPilot": 247,
+  "pilot": 212,
+  "fLength": 4849.0380171112865
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626246"
+  },
+  "arv": {
+    "airport": 6024,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T11:12:01Z"
+    }
+  },
+  "dep": {
+    "airport": 932,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T08:47:33Z"
+    }
+  },
+  "plane": 65,
+  "id": 322,
+  "coPilot": 229,
+  "pilot": 220,
+  "fLength": 2755.1296041158703
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626247"
+  },
+  "arv": {
+    "airport": 9141,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T10:04:28Z"
+    }
+  },
+  "dep": {
+    "airport": 485,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T21:08:07Z"
+    }
+  },
+  "plane": 132,
+  "id": 323,
+  "coPilot": 230,
+  "pilot": 221,
+  "fLength": 5212.491434764855
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626248"
+  },
+  "arv": {
+    "airport": 5475,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T02:09:19Z"
+    }
+  },
+  "dep": {
+    "airport": 2885,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T16:04:59Z"
+    }
+  },
+  "plane": 79,
+  "id": 324,
+  "coPilot": 233,
+  "pilot": 201,
+  "fLength": 5370.231417502662
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626249"
+  },
+  "arv": {
+    "airport": 7926,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T08:13:28Z"
+    }
+  },
+  "dep": {
+    "airport": 281,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T21:58:25Z"
+    }
+  },
+  "plane": 11,
+  "id": 325,
+  "coPilot": 235,
+  "pilot": 220,
+  "fLength": 1005.8826467068237
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762624a"
+  },
+  "arv": {
+    "airport": 5166,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T15:11:20Z"
+    }
+  },
+  "dep": {
+    "airport": 2368,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T12:47:42Z"
+    }
+  },
+  "plane": 88,
+  "id": 326,
+  "coPilot": 236,
+  "pilot": 217,
+  "fLength": 2398.4880990025567
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762624b"
+  },
+  "arv": {
+    "airport": 6313,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T06:42:45Z"
+    }
+  },
+  "dep": {
+    "airport": 924,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T03:56:40Z"
+    }
+  },
+  "plane": 80,
+  "id": 327,
+  "coPilot": 249,
+  "pilot": 224,
+  "fLength": 3022.355912698191
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762624c"
+  },
+  "arv": {
+    "airport": 8390,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T13:27:50Z"
+    }
+  },
+  "dep": {
+    "airport": 735,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T15:25:52Z"
+    }
+  },
+  "plane": 58,
+  "id": 328,
+  "coPilot": 230,
+  "pilot": 205,
+  "fLength": 3423.3418555316907
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762624d"
+  },
+  "arv": {
+    "airport": 4701,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T22:30:27Z"
+    }
+  },
+  "dep": {
+    "airport": 2838,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-10T16:49:27Z"
+    }
+  },
+  "plane": 36,
+  "id": 329,
+  "coPilot": 237,
+  "pilot": 201,
+  "fLength": 4885.790373595564
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762624e"
+  },
+  "arv": {
+    "airport": 5957,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T05:39:11Z"
+    }
+  },
+  "dep": {
+    "airport": 3348,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T00:48:02Z"
+    }
+  },
+  "plane": 98,
+  "id": 330,
+  "coPilot": 232,
+  "pilot": 206,
+  "fLength": 1247.7032266928074
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762624f"
+  },
+  "arv": {
+    "airport": 9049,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T08:47:24Z"
+    }
+  },
+  "dep": {
+    "airport": 230,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T06:55:39Z"
+    }
+  },
+  "plane": 50,
+  "id": 331,
+  "coPilot": 245,
+  "pilot": 217,
+  "fLength": 4891.214357914334
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626250"
+  },
+  "arv": {
+    "airport": 6267,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T06:03:30Z"
+    }
+  },
+  "dep": {
+    "airport": 2097,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T04:05:54Z"
+    }
+  },
+  "plane": 122,
+  "id": 332,
+  "coPilot": 228,
+  "pilot": 213,
+  "fLength": 3147.250186436712
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626251"
+  },
+  "arv": {
+    "airport": 8482,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T17:27:39Z"
+    }
+  },
+  "dep": {
+    "airport": 4609,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T09:02:32Z"
+    }
+  },
+  "plane": 111,
+  "id": 333,
+  "coPilot": 235,
+  "pilot": 210,
+  "fLength": 1716.8058107283973
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626252"
+  },
+  "arv": {
+    "airport": 5388,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T06:12:53Z"
+    }
+  },
+  "dep": {
+    "airport": 593,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-10T09:35:47Z"
+    }
+  },
+  "plane": 57,
+  "id": 334,
+  "coPilot": 234,
+  "pilot": 201,
+  "fLength": 1538.5384285740827
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626253"
+  },
+  "arv": {
+    "airport": 5725,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T13:54:58Z"
+    }
+  },
+  "dep": {
+    "airport": 3749,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T02:15:12Z"
+    }
+  },
+  "plane": 110,
+  "id": 335,
+  "coPilot": 243,
+  "pilot": 204,
+  "fLength": 4704.0173382017865
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626254"
+  },
+  "arv": {
+    "airport": 8839,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T10:44:50Z"
+    }
+  },
+  "dep": {
+    "airport": 137,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T14:46:17Z"
+    }
+  },
+  "plane": 57,
+  "id": 336,
+  "coPilot": 236,
+  "pilot": 216,
+  "fLength": 3229.913724227084
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626255"
+  },
+  "arv": {
+    "airport": 5341,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T06:27:25Z"
+    }
+  },
+  "dep": {
+    "airport": 3293,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-10T19:59:56Z"
+    }
+  },
+  "plane": 105,
+  "id": 337,
+  "coPilot": 234,
+  "pilot": 214,
+  "fLength": 4330.978297124986
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626256"
+  },
+  "arv": {
+    "airport": 4887,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T09:43:07Z"
+    }
+  },
+  "dep": {
+    "airport": 778,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T20:42:32Z"
+    }
+  },
+  "plane": 130,
+  "id": 338,
+  "coPilot": 240,
+  "pilot": 211,
+  "fLength": 3079.0540270020965
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626257"
+  },
+  "arv": {
+    "airport": 5397,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T09:50:22Z"
+    }
+  },
+  "dep": {
+    "airport": 2434,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T22:02:12Z"
+    }
+  },
+  "plane": 74,
+  "id": 339,
+  "coPilot": 250,
+  "pilot": 212,
+  "fLength": 4441.1176504070445
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626258"
+  },
+  "arv": {
+    "airport": 6963,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T03:09:32Z"
+    }
+  },
+  "dep": {
+    "airport": 537,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T02:53:12Z"
+    }
+  },
+  "plane": 147,
+  "id": 340,
+  "coPilot": 248,
+  "pilot": 209,
+  "fLength": 3191.2938613413144
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626259"
+  },
+  "arv": {
+    "airport": 7351,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T16:31:44Z"
+    }
+  },
+  "dep": {
+    "airport": 3138,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T02:10:00Z"
+    }
+  },
+  "plane": 3,
+  "id": 341,
+  "coPilot": 230,
+  "pilot": 206,
+  "fLength": 1294.256523213363
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762625a"
+  },
+  "arv": {
+    "airport": 7633,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T10:34:52Z"
+    }
+  },
+  "dep": {
+    "airport": 4200,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T01:37:14Z"
+    }
+  },
+  "plane": 75,
+  "id": 342,
+  "coPilot": 241,
+  "pilot": 220,
+  "fLength": 2288.1785718832016
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762625b"
+  },
+  "arv": {
+    "airport": 8468,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T14:45:15Z"
+    }
+  },
+  "dep": {
+    "airport": 3630,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T18:28:08Z"
+    }
+  },
+  "plane": 105,
+  "id": 343,
+  "coPilot": 239,
+  "pilot": 205,
+  "fLength": 3838.1580138351615
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762625c"
+  },
+  "arv": {
+    "airport": 7985,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T01:27:09Z"
+    }
+  },
+  "dep": {
+    "airport": 3563,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-10T06:26:20Z"
+    }
+  },
+  "plane": 117,
+  "id": 344,
+  "coPilot": 241,
+  "pilot": 205,
+  "fLength": 4569.881988228511
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762625d"
+  },
+  "arv": {
+    "airport": 6032,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T14:56:08Z"
+    }
+  },
+  "dep": {
+    "airport": 132,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T19:59:51Z"
+    }
+  },
+  "plane": 97,
+  "id": 345,
+  "coPilot": 245,
+  "pilot": 213,
+  "fLength": 2452.7381510123605
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762625e"
+  },
+  "arv": {
+    "airport": 6609,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T13:42:55Z"
+    }
+  },
+  "dep": {
+    "airport": 3785,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-10T08:52:46Z"
+    }
+  },
+  "plane": 7,
+  "id": 346,
+  "coPilot": 248,
+  "pilot": 203,
+  "fLength": 3034.140551527535
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762625f"
+  },
+  "arv": {
+    "airport": 4759,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T19:34:48Z"
+    }
+  },
+  "dep": {
+    "airport": 1668,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-10T10:39:24Z"
+    }
+  },
+  "plane": 98,
+  "id": 347,
+  "coPilot": 242,
+  "pilot": 223,
+  "fLength": 1723.1383614812562
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626260"
+  },
+  "arv": {
+    "airport": 8484,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T02:34:42Z"
+    }
+  },
+  "dep": {
+    "airport": 3688,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-10T23:21:33Z"
+    }
+  },
+  "plane": 54,
+  "id": 348,
+  "coPilot": 232,
+  "pilot": 222,
+  "fLength": 5046.4737523042195
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626261"
+  },
+  "arv": {
+    "airport": 8830,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T07:15:06Z"
+    }
+  },
+  "dep": {
+    "airport": 4362,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-10T13:18:51Z"
+    }
+  },
+  "plane": 144,
+  "id": 349,
+  "coPilot": 234,
+  "pilot": 219,
+  "fLength": 4956.401253278431
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626262"
+  },
+  "arv": {
+    "airport": 5743,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T17:58:28Z"
+    }
+  },
+  "dep": {
+    "airport": 3192,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T19:38:15Z"
+    }
+  },
+  "plane": 26,
+  "id": 350,
+  "coPilot": 242,
+  "pilot": 210,
+  "fLength": 3828.489431489685
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626263"
+  },
+  "arv": {
+    "airport": 4970,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T21:03:09Z"
+    }
+  },
+  "dep": {
+    "airport": 1525,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T04:00:55Z"
+    }
+  },
+  "plane": 103,
+  "id": 351,
+  "coPilot": 229,
+  "pilot": 225,
+  "fLength": 5220.2509403473705
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626264"
+  },
+  "arv": {
+    "airport": 7227,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T17:49:51Z"
+    }
+  },
+  "dep": {
+    "airport": 4109,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T01:08:12Z"
+    }
+  },
+  "plane": 98,
+  "id": 352,
+  "coPilot": 233,
+  "pilot": 220,
+  "fLength": 2773.5291509315457
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626265"
+  },
+  "arv": {
+    "airport": 8992,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T02:11:56Z"
+    }
+  },
+  "dep": {
+    "airport": 1696,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T01:18:35Z"
+    }
+  },
+  "plane": 50,
+  "id": 353,
+  "coPilot": 230,
+  "pilot": 213,
+  "fLength": 5267.722751463989
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626266"
+  },
+  "arv": {
+    "airport": 8639,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T07:13:00Z"
+    }
+  },
+  "dep": {
+    "airport": 2868,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T20:18:39Z"
+    }
+  },
+  "plane": 7,
+  "id": 354,
+  "coPilot": 239,
+  "pilot": 220,
+  "fLength": 3990.674045792021
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626267"
+  },
+  "arv": {
+    "airport": 8676,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T21:24:23Z"
+    }
+  },
+  "dep": {
+    "airport": 3253,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T09:53:08Z"
+    }
+  },
+  "plane": 32,
+  "id": 355,
+  "coPilot": 250,
+  "pilot": 211,
+  "fLength": 4033.9772178866615
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626268"
+  },
+  "arv": {
+    "airport": 5018,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T05:18:17Z"
+    }
+  },
+  "dep": {
+    "airport": 415,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T00:37:04Z"
+    }
+  },
+  "plane": 6,
+  "id": 356,
+  "coPilot": 237,
+  "pilot": 216,
+  "fLength": 1391.881933770755
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626269"
+  },
+  "arv": {
+    "airport": 4661,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T11:38:13Z"
+    }
+  },
+  "dep": {
+    "airport": 2443,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T02:24:25Z"
+    }
+  },
+  "plane": 95,
+  "id": 357,
+  "coPilot": 248,
+  "pilot": 205,
+  "fLength": 4953.780144152652
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762626a"
+  },
+  "arv": {
+    "airport": 6598,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T17:18:30Z"
+    }
+  },
+  "dep": {
+    "airport": 228,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T06:29:31Z"
+    }
+  },
+  "plane": 65,
+  "id": 358,
+  "coPilot": 243,
+  "pilot": 210,
+  "fLength": 4110.829752350202
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762626b"
+  },
+  "arv": {
+    "airport": 4824,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T13:22:06Z"
+    }
+  },
+  "dep": {
+    "airport": 1950,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T00:15:42Z"
+    }
+  },
+  "plane": 38,
+  "id": 359,
+  "coPilot": 233,
+  "pilot": 202,
+  "fLength": 3132.225994046991
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762626c"
+  },
+  "arv": {
+    "airport": 6104,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T06:34:19Z"
+    }
+  },
+  "dep": {
+    "airport": 979,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T10:58:12Z"
+    }
+  },
+  "plane": 67,
+  "id": 360,
+  "coPilot": 230,
+  "pilot": 218,
+  "fLength": 2334.147138094815
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762626d"
+  },
+  "arv": {
+    "airport": 7999,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T13:15:14Z"
+    }
+  },
+  "dep": {
+    "airport": 3523,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T16:10:59Z"
+    }
+  },
+  "plane": 137,
+  "id": 361,
+  "coPilot": 247,
+  "pilot": 210,
+  "fLength": 4412.050331892646
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762626e"
+  },
+  "arv": {
+    "airport": 9159,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T18:55:23Z"
+    }
+  },
+  "dep": {
+    "airport": 3353,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T23:31:41Z"
+    }
+  },
+  "plane": 106,
+  "id": 362,
+  "coPilot": 245,
+  "pilot": 219,
+  "fLength": 4663.403685079634
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762626f"
+  },
+  "arv": {
+    "airport": 7730,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T00:51:45Z"
+    }
+  },
+  "dep": {
+    "airport": 4191,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T00:57:35Z"
+    }
+  },
+  "plane": 44,
+  "id": 363,
+  "coPilot": 233,
+  "pilot": 219,
+  "fLength": 3055.2868717969473
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626270"
+  },
+  "arv": {
+    "airport": 7726,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T23:49:53Z"
+    }
+  },
+  "dep": {
+    "airport": 1760,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T08:23:11Z"
+    }
+  },
+  "plane": 42,
+  "id": 364,
+  "coPilot": 240,
+  "pilot": 216,
+  "fLength": 4691.398568161494
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626271"
+  },
+  "arv": {
+    "airport": 8483,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T18:22:27Z"
+    }
+  },
+  "dep": {
+    "airport": 2509,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-10T12:48:48Z"
+    }
+  },
+  "plane": 80,
+  "id": 365,
+  "coPilot": 250,
+  "pilot": 209,
+  "fLength": 1212.269241851933
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626272"
+  },
+  "arv": {
+    "airport": 6757,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T11:25:08Z"
+    }
+  },
+  "dep": {
+    "airport": 3918,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T07:01:27Z"
+    }
+  },
+  "plane": 86,
+  "id": 366,
+  "coPilot": 236,
+  "pilot": 212,
+  "fLength": 5260.155115309535
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626273"
+  },
+  "arv": {
+    "airport": 4747,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T19:02:12Z"
+    }
+  },
+  "dep": {
+    "airport": 2468,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-10T05:50:18Z"
+    }
+  },
+  "plane": 56,
+  "id": 367,
+  "coPilot": 230,
+  "pilot": 219,
+  "fLength": 4612.927683378604
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626274"
+  },
+  "arv": {
+    "airport": 4818,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T06:59:48Z"
+    }
+  },
+  "dep": {
+    "airport": 2658,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T12:33:39Z"
+    }
+  },
+  "plane": 139,
+  "id": 368,
+  "coPilot": 228,
+  "pilot": 220,
+  "fLength": 2830.8816516453853
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626275"
+  },
+  "arv": {
+    "airport": 4695,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T10:08:41Z"
+    }
+  },
+  "dep": {
+    "airport": 2106,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-10T08:03:37Z"
+    }
+  },
+  "plane": 124,
+  "id": 369,
+  "coPilot": 244,
+  "pilot": 214,
+  "fLength": 1236.0156974933066
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626276"
+  },
+  "arv": {
+    "airport": 8306,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T16:03:27Z"
+    }
+  },
+  "dep": {
+    "airport": 819,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-10T04:17:03Z"
+    }
+  },
+  "plane": 64,
+  "id": 370,
+  "coPilot": 236,
+  "pilot": 211,
+  "fLength": 1584.7256524423287
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626277"
+  },
+  "arv": {
+    "airport": 6112,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T10:23:56Z"
+    }
+  },
+  "dep": {
+    "airport": 3455,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-10T12:16:34Z"
+    }
+  },
+  "plane": 52,
+  "id": 371,
+  "coPilot": 240,
+  "pilot": 203,
+  "fLength": 1079.4296686670934
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626278"
+  },
+  "arv": {
+    "airport": 5921,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T04:43:34Z"
+    }
+  },
+  "dep": {
+    "airport": 2510,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T05:14:36Z"
+    }
+  },
+  "plane": 81,
+  "id": 372,
+  "coPilot": 235,
+  "pilot": 218,
+  "fLength": 1623.3236559580068
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626279"
+  },
+  "arv": {
+    "airport": 8248,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T22:19:07Z"
+    }
+  },
+  "dep": {
+    "airport": 3683,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T09:46:38Z"
+    }
+  },
+  "plane": 119,
+  "id": 373,
+  "coPilot": 230,
+  "pilot": 221,
+  "fLength": 2334.317711143227
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762627a"
+  },
+  "arv": {
+    "airport": 6293,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T21:42:04Z"
+    }
+  },
+  "dep": {
+    "airport": 1300,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T14:54:50Z"
+    }
+  },
+  "plane": 59,
+  "id": 374,
+  "coPilot": 233,
+  "pilot": 214,
+  "fLength": 3828.6285849433234
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762627b"
+  },
+  "arv": {
+    "airport": 8828,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T11:35:40Z"
+    }
+  },
+  "dep": {
+    "airport": 3499,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T17:23:45Z"
+    }
+  },
+  "plane": 94,
+  "id": 375,
+  "coPilot": 228,
+  "pilot": 205,
+  "fLength": 2874.5704735311942
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762627c"
+  },
+  "arv": {
+    "airport": 8185,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T16:52:04Z"
+    }
+  },
+  "dep": {
+    "airport": 2450,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T05:49:05Z"
+    }
+  },
+  "plane": 102,
+  "id": 376,
+  "coPilot": 250,
+  "pilot": 211,
+  "fLength": 3705.4477069309055
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762627d"
+  },
+  "arv": {
+    "airport": 5530,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T06:37:51Z"
+    }
+  },
+  "dep": {
+    "airport": 535,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T16:36:35Z"
+    }
+  },
+  "plane": 33,
+  "id": 377,
+  "coPilot": 235,
+  "pilot": 215,
+  "fLength": 1684.7728010793637
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762627e"
+  },
+  "arv": {
+    "airport": 5897,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T15:20:03Z"
+    }
+  },
+  "dep": {
+    "airport": 2287,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-10T23:17:02Z"
+    }
+  },
+  "plane": 119,
+  "id": 378,
+  "coPilot": 239,
+  "pilot": 211,
+  "fLength": 1075.58322815215
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762627f"
+  },
+  "arv": {
+    "airport": 5668,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T02:15:59Z"
+    }
+  },
+  "dep": {
+    "airport": 3525,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T19:39:37Z"
+    }
+  },
+  "plane": 102,
+  "id": 379,
+  "coPilot": 248,
+  "pilot": 224,
+  "fLength": 4601.922608465386
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626280"
+  },
+  "arv": {
+    "airport": 8738,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T04:03:51Z"
+    }
+  },
+  "dep": {
+    "airport": 3595,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T18:56:44Z"
+    }
+  },
+  "plane": 8,
+  "id": 380,
+  "coPilot": 234,
+  "pilot": 203,
+  "fLength": 1583.9533188278406
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626281"
+  },
+  "arv": {
+    "airport": 5022,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T19:28:17Z"
+    }
+  },
+  "dep": {
+    "airport": 1086,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T15:04:21Z"
+    }
+  },
+  "plane": 4,
+  "id": 381,
+  "coPilot": 241,
+  "pilot": 212,
+  "fLength": 4854.696233875815
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626282"
+  },
+  "arv": {
+    "airport": 6150,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T07:11:08Z"
+    }
+  },
+  "dep": {
+    "airport": 1503,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T03:23:38Z"
+    }
+  },
+  "plane": 44,
+  "id": 382,
+  "coPilot": 246,
+  "pilot": 212,
+  "fLength": 5335.382252823782
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626283"
+  },
+  "arv": {
+    "airport": 5964,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T15:45:06Z"
+    }
+  },
+  "dep": {
+    "airport": 2897,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T21:35:17Z"
+    }
+  },
+  "plane": 114,
+  "id": 383,
+  "coPilot": 242,
+  "pilot": 223,
+  "fLength": 2673.1676874973764
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626284"
+  },
+  "arv": {
+    "airport": 6339,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T01:28:39Z"
+    }
+  },
+  "dep": {
+    "airport": 1400,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T18:51:26Z"
+    }
+  },
+  "plane": 13,
+  "id": 384,
+  "coPilot": 246,
+  "pilot": 219,
+  "fLength": 4936.766451847105
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626285"
+  },
+  "arv": {
+    "airport": 5135,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T09:33:29Z"
+    }
+  },
+  "dep": {
+    "airport": 1172,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T23:39:34Z"
+    }
+  },
+  "plane": 94,
+  "id": 385,
+  "coPilot": 232,
+  "pilot": 220,
+  "fLength": 3652.344042299102
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626286"
+  },
+  "arv": {
+    "airport": 8276,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T12:16:57Z"
+    }
+  },
+  "dep": {
+    "airport": 383,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T07:15:21Z"
+    }
+  },
+  "plane": 132,
+  "id": 386,
+  "coPilot": 236,
+  "pilot": 221,
+  "fLength": 5122.645536668867
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626287"
+  },
+  "arv": {
+    "airport": 8303,
+    "stay": 0,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-14T09:44:57Z"
+    }
+  },
+  "dep": {
+    "airport": 1154,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T19:30:06Z"
+    }
+  },
+  "plane": 34,
+  "id": 387,
+  "coPilot": 239,
+  "pilot": 206,
+  "fLength": 1165.5401668587638
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626288"
+  },
+  "arv": {
+    "airport": 6151,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T20:44:42Z"
+    }
+  },
+  "dep": {
+    "airport": 3326,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T15:36:44Z"
+    }
+  },
+  "plane": 94,
+  "id": 388,
+  "coPilot": 238,
+  "pilot": 214,
+  "fLength": 5310.3631487124185
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626289"
+  },
+  "arv": {
+    "airport": 7315,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T18:13:11Z"
+    }
+  },
+  "dep": {
+    "airport": 2289,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T12:16:27Z"
+    }
+  },
+  "plane": 97,
+  "id": 389,
+  "coPilot": 241,
+  "pilot": 213,
+  "fLength": 5212.614690985591
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762628a"
+  },
+  "arv": {
+    "airport": 8729,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T21:04:25Z"
+    }
+  },
+  "dep": {
+    "airport": 1074,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T17:33:03Z"
+    }
+  },
+  "plane": 122,
+  "id": 390,
+  "coPilot": 244,
+  "pilot": 212,
+  "fLength": 1572.3033514485317
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762628b"
+  },
+  "arv": {
+    "airport": 6114,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T14:02:30Z"
+    }
+  },
+  "dep": {
+    "airport": 487,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-10T09:39:29Z"
+    }
+  },
+  "plane": 150,
+  "id": 391,
+  "coPilot": 247,
+  "pilot": 207,
+  "fLength": 1668.1521348715744
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762628c"
+  },
+  "arv": {
+    "airport": 8881,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T14:29:09Z"
+    }
+  },
+  "dep": {
+    "airport": 4280,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T08:27:24Z"
+    }
+  },
+  "plane": 84,
+  "id": 392,
+  "coPilot": 228,
+  "pilot": 222,
+  "fLength": 5111.106694342989
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762628d"
+  },
+  "arv": {
+    "airport": 5349,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T15:10:23Z"
+    }
+  },
+  "dep": {
+    "airport": 616,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T13:10:02Z"
+    }
+  },
+  "plane": 120,
+  "id": 393,
+  "coPilot": 226,
+  "pilot": 216,
+  "fLength": 2547.3913250594505
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762628e"
+  },
+  "arv": {
+    "airport": 6283,
+    "stay": 2,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T05:59:02Z"
+    }
+  },
+  "dep": {
+    "airport": 2535,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T11:40:39Z"
+    }
+  },
+  "plane": 30,
+  "id": 394,
+  "coPilot": 247,
+  "pilot": 218,
+  "fLength": 2362.954827664507
+},{
+  "_id": {
+    "$oid": "61c396482889c0af5762628f"
+  },
+  "arv": {
+    "airport": 8955,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T11:28:36Z"
+    }
+  },
+  "dep": {
+    "airport": 3536,
+    "stay": 3,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T18:16:21Z"
+    }
+  },
+  "plane": 34,
+  "id": 395,
+  "coPilot": 243,
+  "pilot": 209,
+  "fLength": 1509.7572314272775
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626290"
+  },
+  "arv": {
+    "airport": 6866,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-14T19:22:57Z"
+    }
+  },
+  "dep": {
+    "airport": 922,
+    "stay": 2,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T21:00:23Z"
+    }
+  },
+  "plane": 53,
+  "id": 396,
+  "coPilot": 232,
+  "pilot": 215,
+  "fLength": 4481.87397614304
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626291"
+  },
+  "arv": {
+    "airport": 6112,
+    "stay": 1,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T00:13:50Z"
+    }
+  },
+  "dep": {
+    "airport": 2735,
+    "stay": 3,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-11T06:49:57Z"
+    }
+  },
+  "plane": 112,
+  "id": 397,
+  "coPilot": 244,
+  "pilot": 205,
+  "fLength": 5186.945464852888
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626292"
+  },
+  "arv": {
+    "airport": 5314,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T18:21:28Z"
+    }
+  },
+  "dep": {
+    "airport": 3905,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-10T22:28:11Z"
+    }
+  },
+  "plane": 56,
+  "id": 398,
+  "coPilot": 234,
+  "pilot": 201,
+  "fLength": 5301.863139570757
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626293"
+  },
+  "arv": {
+    "airport": 8830,
+    "stay": 0,
+    "refuel": false,
+    "dt": {
+      "$date": "2021-10-13T17:29:52Z"
+    }
+  },
+  "dep": {
+    "airport": 3683,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-11T21:31:20Z"
+    }
+  },
+  "plane": 98,
+  "id": 399,
+  "coPilot": 242,
+  "pilot": 209,
+  "fLength": 5005.142341650114
+},{
+  "_id": {
+    "$oid": "61c396482889c0af57626294"
+  },
+  "arv": {
+    "airport": 7396,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-13T13:23:17Z"
+    }
+  },
+  "dep": {
+    "airport": 4187,
+    "stay": 1,
+    "refuel": true,
+    "dt": {
+      "$date": "2021-10-10T13:02:57Z"
+    }
+  },
+  "plane": 53,
+  "id": 400,
+  "coPilot": 229,
+  "pilot": 208,
+  "fLength": 3969.26498109231
+}]
